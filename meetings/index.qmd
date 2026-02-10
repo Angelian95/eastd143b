@@ -6,3 +6,4 @@ title: "Meetings"
 
 - [Meeting 01](../meeting_01/meeting_01.qmd)
 - [Meeting 02](../meeting_02/meeting_02.qmd)
+- [Meeting 03](../meeting_03/meeting_03.qmd)

@@ -1,0 +1,25 @@
+---
+title: "Meeting 03"
+format:
+    html:
+        toc: true
+        toc-depth: 3
+        code-fold: true
+        link-external-newwindow: true
+        code-overflow: wrap
+        code-copy: true
+    pdf:
+        toc: true
+        toc-depth: 3
+        colorlinks: true
+date: "2026-02-11"
+date-modified: "2026-02-11"
+author: "Kwok-leong Tang"
+---
+
+# Today's Schedule
+
+- 
+
+# 
+
