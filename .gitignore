@@ -37,3 +37,13 @@ node_modules/
 
 # PDFs (often generated)
 *.pdf
+
+/.quarto/
+**/*.quarto_ipynb
+
+# Quarto build output
+_site/
+
+# Rendered artifacts
+*.html
+*_files/
