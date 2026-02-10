@@ -8,10 +8,7 @@ format:
         link-external-newwindow: true
         code-overflow: wrap
         code-copy: true
-    pdf:
-        toc: true
-        toc-depth: 3
-        colorlinks: true
+# pdf output disabled for GitHub Pages build (no TeX on CI)
 date: "2026-02-04"
 date-modified: "2026-02-04"
 author: "Kwok-leong Tang"

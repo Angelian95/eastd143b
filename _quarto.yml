@@ -19,3 +19,8 @@ format:
     toc: true
     include-in-header:
       - _includes/auth-check.html
+
+# Build only HTML in CI / GitHub Pages
+render:
+  - "**/*.qmd"
+  - "**/*.md"
