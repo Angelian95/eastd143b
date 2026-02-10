@@ -1,0 +1,253 @@
+---
+title: "EASTD143B Digital Tools and Methods in East Asian Humanities: Coding Approach"
+format:
+    revealjs:
+        theme: solarized
+        incremental: true
+        multiplex: true
+        scrollable: true
+        center-title-slide: true
+        css: style.css
+        footer: ""
+---
+
+**Meeting Time:** 09:00 - 11:45, Wednesdays, Spring 2026
+
+**Location:** Harvard Hall 103
+
+**Instructor:** Kwok-leong Tang ([kwokleongtang\@fas.harvard.edu](mailto:kwokleongtang@fas.harvard.edu){.email})
+
+Please call me Dr. Tang or Kwok-leong, not Professor Tang.
+
+**Office Hours:** 10:30 - 12:30, Fridays (407 CGIS South)
+
+## Today's Schedule
+
+-   Syllabus
+-   GenAI and agentic basic concepts
+-   Tools that we will use in class
+
+# Syllabus {.center}
+
+## Overview
+
+This course is designed for East Asian humanities students interested in adopting digital methods in their research with basic programming and building tools for their own research workflow. It introduces fundamental programming concepts and essential techniques for the booming generative artificial intelligence. This year’s course focuses on agentic approach for using GenAI not only for coding but also for research workflow. Students completing the course will integrate and apply these tools into their research and explore the rapidly growing new technologies, especially GenAI, related to humanities studies.
+
+------------------------------------------------------------------------
+
+This course is for you if:
+
+-   You come from a humanities background with no or little digital literacy but want to learn how digital tools and methods can benefit your studies or research.
+-   You want to bring digital components into your existing humanities research workflow.
+-   You have ideas for a digital project but need to know how to start.
+
+------------------------------------------------------------------------
+
+This course may not be helpful to you if:
+
+-   You are an experienced programmer.
+-   You have zero background in East Asian humanities.
+-   You are looking for data science or machine learning 101.
+
+------------------------------------------------------------------------
+
+**ATTENTION**: Language and research requirements may apply. Proficiency in at least one East Asian language and a relevant research topic are required. Please contact Kwok-leong for more details about these requirements.
+	
+## Learning Goals
+
+After completion of the course, you will be able to:
+
+- use agentic tools to collect data from the internet and digitalized materials;
+- manipulate and analyze data with Python and AI tools;
+- know how to test and use emerging artificial intelligence tools; design and build a simple digital scholarship project.
+
+## Class Format
+
+We will meet weekly for 2 hours and 45 minutes. The class will be a mix of lectures, discussions, and hands-on exercises. The course used to have non-mandatory coding sessions. However, we **DO NOT** have coding sessions this semester.
+
+## Grading
+
+-   Class participation (20%): Students are expected to attend and participate in every class, completing assigned in-class exercises and engaging in discussions.
+-   Homework assignments (30%): Homework assignments will incorporate methods, principles, and tools into your research projects.
+-   Final project: The final project will include a meeting with Kwok-leong to discuss the project by the end of the third week (5%), two progress reports (5% each), a presentation (10%), and a final submission (25%).
+
+## Class Policies
+
+### Office Hours
+
+Kwok-leong’s in-person office hours are 10:30 - 12:30 on Fridays, and online office hours are by appointment. Please email Kwok-leong to schedule appointments.
+
+------------------------------------------------------------------------
+
+### Absence from Class
+
+Class participation accounts for 20% of your grade, so attendance is essential. However, we all face difficulties in our lives. Every enrolled student will have two opportunities to be absent from the weekly meeting.
+
+------------------------------------------------------------------------
+
+### Classroom Rules
+
+All class materials will be shared on Canvas or Kwok-leong’s website. **Please do NOT take any photos or videos in class without Kwok-leong’s permission!**
+
+------------------------------------------------------------------------
+
+### Accessibility Statement
+
+The instructor is committed to ensuring everyone has equitable access to the learning environment. Kwok-leong will strive to make the course materials, meetings, and the instructor’s office hours accessible and usable for all students. All materials distributed in the course will be available in an accessible format. The instructor will make reasonable accommodations to course materials, meetings, and office hours for students with disabilities who have registered with the Harvard Disability Access Office (DAO) or have been identified as having a disability or special need.
+
+------------------------------------------------------------------------
+
+### Auditing
+
+As the course will provide resources (API credits and subscription fees) to both enrolled and auditing students, auditing students are expected to commit to the course as enrolled students do. If you need to miss any class for any reason, please inform Kwok-leong in advance. Additionally, if you anticipate being absent for multiple meetings due to travel plans, it is recommended that you DO NOT audit this class.
+
+------------------------------------------------------------------------
+
+## Weekly Schedule
+
+-   2025-01-29: Introduction and GenAI in General
+-   2025-02-05: The Landscape of AI-Assisted Coding
+-   2025-02-12: Version Control, Git, GitHub, Quarto
+-   2025-02-19: Package Managers, Libraries, Frameworks, and API
+-   2025-02-26: Collecting Data I
+-   2025-03-05: Collecting Data II
+-   2025-03-12: Spring Break, 2025 AAS in Columbus, OH
+-   2025-03-19: Text Analysis: Statistical Approach
+
+## Weekly Schedule
+
+-   2025-03-26: Vector Search and Retrieval Augment Generation I
+-   2025-04-02: Retrieval Augment Generation II
+-   2025-04-09: Building a Digital Scholarship Project I
+-   2025-04-16: Building a Digital Scholarship Project II
+-   2025-04-23: Building a Digital Scholarship Project III
+-   2025-04-30: Presentations
+
+## Assignments
+
+### Build a Personal Website with Quarto (10%)
+
+In this assignment, you will build a personal portfolio with Quarto, an open-source scientific and technical publishing system, and deploy it to GitHub Pages.
+
+## Assignments
+
+### Building a Web-Crawler (10%)
+
+In this assignment, you will create a web-crawler that can scrape any URL provided by the user.
+
+## Assignments
+
+### Building a Chatbot with Your Data (10%)
+
+Using the data provided by Kwok-leong, you will create a chatbot capable of interacting with and responding to queries about the data.
+
+## Research Project
+
+The core of this course is your research project. Kwok-leong encourages you to work on your thesis or dissertation project using the tools and methods introduced in this course. However, the project must bring new insights to the existing scholarship.
+
+## Research Project
+
+1.  **Topic Selection** (5%): Meet with Kwok-leong in person to decide your project topic by the end of the third week (2025-02-14).
+2.  **Progress Presentations** (10% total): Each student will give two progress presentations in class (5% each).
+3.  **Final Presentation** (10%): Each student will give a final presentation in the last class meeting.
+4.  **Final Data Collection** (25%): Submit your project by the end of the grading deadline.
+
+------------------------------------------------------------------------
+
+## Recommended Readings and Online Tutorials
+
+The class does not require a textbook. Please watch the [Programming Concepts for Python course](https://www.linkedin.com/learning/programming-concepts-for-python) by the third week meeting. You should be able to access this video course by using your HarvardKey. For documentation and tutorials for specific tools that we use in class, links are in the weekly meeting materials.
+
+## How is this course (and the skills you learn from it) different from a CS course? {.center}
+
+## Fighting as a Metaphor {.center}
+
+::: {.columns}
+::: {.column width="50%" .center}
+![](.quarto/images/mike_tyson.png "Mike Tyson"){.fragment}
+:::
+::: {.column width="50%" .center}
+![](.quarto/images/young_dangerous.png "Young and Dangerous"){.fragment}
+:::
+:::
+
+## Differences
+
+::: {.columns}
+::: {.column width="50%" .center}
+### CS Courses
+- Quantitative or mathematically oriented
+- Theoretical and abstract
+- Division of labor in the industry
+- Clean and production-ready
+:::
+::: {.column width="50%" .center}
+### EASTD143B
+- Practical from down-to-earth experience
+- Focus on tooling
+- One-man-band
+- Dirty and for personal use
+:::
+:::
+
+
+# GenAI Basic Concepts {.center}
+
+## Why GenAI?
+
+Since its release on November 30, 2022, ChatGPT (and other Large Language Models, **LLMs**) has brought generative AI into the spotlight of our daily lives. What is the significance of generative AI for us, as students of East Asian humanities?
+
+## Iron Man II: Finding a New Element
+
+{{< video https://youtu.be/Ddk9ci6geSs width="100%" height="100%">}}
+
+## Communicating with Machines in Natural Languages
+
+-   Large language models (LLMs) and machine learning were not new concepts before November 2022.
+-   The revolution brought by ChatGPT and generative AI, in general, lies in the **interaction experience** between humans and machines.
+-   We can now communicate with machines in natural languages, whether in English, Vietnamese, Mandarin, Japanese, or Korean.
+
+## GenAI and students in East Asian Studies
+
+-   It simplifies technological complexities, making it easier to adopt digital tools in research processes. This means less coding and less training (for both humans and machines).
+-   In digital research workflows, domain expertise has become more significant due to the necessity of evaluation.
+
+## A Demo of GenAI-assited Coding {.center}
+
+## AI Tools introduction {.center}
+
+## [Harvard AI Sandbox](https://huit.harvard.edu/ai-sandbox)
+- All enrolled and auditing students have access to the Harvard AI Sandbox.
+- The Sandbox provides access to multiple LLMs, including models from OpenAI, Anthropic, Meta, and Google.
+- Even using the same model, the experience from Harvard AI Sandbox can be greatly different from using the chatbot interface built by the tech companies.
+
+## [OpenAI ChatGTP Edu](https://it.fas.harvard.edu/openai-chatgpt-edu/)
+- It is an educational version of the ChatGPT Plus ($20) subscription.
+- When OpenAI releases new features, the educational version is usually the last to receive updates.
+- It allows you to build GPTs (agents); however, only Harvard users can use the GPTs you share.
+- OpenAI models include GPT series, Dall-E series, and text embeding models.
+- [Microsoft Copilot](https://copilot.microsoft.com/) uses OpenAI models under the hood.
+
+## [Anthropic (Claude)](https://claude.ai)
+- Antrhropic PBC is an artificial intelligence (AI) public-benefit startup founded in 2021.
+- Claude series models (Haiku, Sonnet, Opus).
+- Still the **best** coding model in the world.
+- **Model Context Protocol** (MCP)
+
+## [Google AI Family](https://ai.google)
+- Gemini series models, long context window (1.5 million tokens).
+- Interesting tools developed by Google including [NotebookLM](https://notebooklm.google.com), [Learn About](https://learning.google.com/experiments/learn-about/signup), and [Google AI Studio](https://aistudio.google.com/)
+- Generous free tier for Gemini API usage, good for academics.
+
+## [DeepSeek](https://www.deepseek.com)
+- Rising star and shocked the world in the last two weeks.
+- Open weight, **locally deployable**, maybe replicable in training.
+- Low training cost, cheap inference cost, and low energy consumption.
+- Censorship is unavoidable.
+
+## RAG and Agentic workflow {.center}
+
+## Preparation for next week
+- Watch the [Programming Concepts for Python course](https://www.linkedin.com/learning/programming-concepts-for-python) on Linkedin Learning.
+- Download and install [VScode](https://code.visualstudio.com).
+- Schedule an appointment with Kwok-leong to discuss your research topic.

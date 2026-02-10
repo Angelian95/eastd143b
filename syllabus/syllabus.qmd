@@ -1,0 +1,116 @@
+---
+title: "2026 Spring EASTD143B Syllabus"
+format:
+  html:
+    css: styles.css
+---
+
+## Course Information
+- **Course Title**: EASTD143B Digital Tools and Methods in East Asian Humanities: Coding Approach
+- **Meeting Time**: 09:00 - 11:45, Wednesdays, Spring 2026
+- **Location**: Harvard Hall 103
+- **Instructor**: Kwok-leong Tang (kwokleongtang@fas.harvard.edu)
+- **Office Hours**: 10:30 - 12:30 , Fridays (407 CGIS South)
+
+::: {.red-text}
+**ATTENTION**: There is NO SESSION on Fridays through the Spring semester. Therefore, you can register for this course even you have classes on Fridays.
+:::
+
+## Overview
+
+This course is designed for East Asian humanities students interested in adopting digital methods in their research with basic programming and building tools for their own research workflow. It introduces fundamental programming concepts and essential techniques for the booming generative artificial intelligence. **This year's course focuses on agentic approach for using GenAI not only for coding but also for research workflow.** Students completing the course will integrate and apply these tools into their research and explore the rapidly growing new technologies, especially GenAI, related to humanities studies.
+
+This course is for you if: 
+
+* you come from a humanities background with no or little digital literacy but want to learn how digital tools and methods can benefit your studies or research; 
+* you want to bring GenAI components into your existing humanities research workflow; 
+* you have ideas for digital projects but need to know how to start.
+
+This course may not be helpful to you if: 
+
+* you are an experienced programmer;
+* you have zero background in East Asian humanities; 
+* you are looking for data science or machine learning 101. 
+
+**ATTENTION**: Language requirements may apply. Proficiency in one East Asian language is required. Please get in touch with Kwok-leong for more details about the language requirement.
+ 
+
+## Learning Goals 
+After completion of the course, you will be able to 
+
+- use agentic tools to collect data from the internet and digitalized materials; 
+- manipulate and analyze data with Python and AI tools; 
+- know how to test and use emerging artificial intelligence tools; 
+design and build a simple digital scholarship project. 
+ 
+
+## Class Format 
+We will meet weekly for 2 hours and 45 minutes. The class will be a mix of lectures, discussions, and hands-on exercises. 
+ 
+
+## Grading 
+Class participation (20%): Students are expected to attend and participate in every class, completing assigned in-class exercises and engaging in discussions. 
+Homework assignments (30%): Homework assignments will incorporate methods, principles, and tools into your research projects. 
+Final project: The final project will include a meeting with Kwok-leong to discuss the project by the end of the third week (5%), a proposal (5%), a presentation (10%), a work journal (10%), and a final product (20%). 
+ 
+
+## Class Policies 
+
+### Office hours 
+Kwok-leong’s regular office hours are 10:30 - 12:30, Fridays (407 CGIS South). However, you can schedule in-person or online meetings by appointment. Please email Kwok-leong to schedule appointments.
+
+### Absence from class 
+Class participation takes 20% of your grade, so attendance is essential. However, we all face difficulties in our lives. Every enrolled student will have two opportunities to be absent from the weekly meeting. Please notify Kwok-leong if you are absent. 
+
+### Classroom rules 
+All class materials will be shared on Canvas or Kwok-leong’s website. 
+**Please do NOT take any photos or videos in class without Kwok-leong’s permission!**
+
+### Accessibility Statement 
+The instructor is committed to ensuring everyone has equitable access to the learning environment. Kwok-leong will strive to make the course materials, meetings, and the instructor’s office hours accessible and useable for all students. All materials distributed in the course will be available in an accessible format. The instructor will make reasonable accommodations to course materials, meetings, and office hours for students with disabilities who have registered with the Harvard Disability Access Office (DAO) or have been identified as having a disability or special need. 
+
+### Auditing
+As the course will provide resources (API credits and subscription fees) to both enrolled and auditing students, auditing students are expected to commit to the course as enrolled students do. If you need to miss any class for any reason, please inform Kwok-leong in advance. Additionally, if you anticipate being absent for multiple meetings due to travel plans, it is recommended that you DO NOT audit this class.
+ 
+
+## Weekly Schedule 
+
+- 2026-01-28: Introduction, logistics, and software setup
+- 2026-02-04: The landscape of agentic approach
+- 2026-02-11: Return to the terminal 
+- 2026-02-18: Version control 
+- 2026-02-25: Note-taking and research workflow
+- 2026-03-04: Packages, libraries, frameworks, platforms 
+- 2026-03-11: Collecting data online
+- 2026-03-18: Spring break
+- 2026-03-25: Text analysis
+- 2026-04-01: Working on data I 
+- 2026-04-08: Working on data II 
+- 2026-04-15: Building a digital scholarship project I 
+- 2026-04-22: Building a digital scholarship project II 
+- 2026-04-29: Presentations 
+ 
+
+## Assignments 
+### Build a Personal Website (10%)
+In this assignment, you will build a personal online portfolio which contains blogs, your CV, research projects, publications, and other academic achievements.
+
+### Building a data collecting agent team (10%)
+In this assignment, you will create an agent team that can scrape any URL provided by the user.
+
+### Building a research workflow agent (10%)
+Using the data provided by Kwok-leong, you will create a research workflow agent that can help you with your research.
+
+
+## Research Project
+The core of this course is your research project. Kwok-leong encourages you to work on your thesis or dissertation project using the tools and methods introduced in this course. However, the project must bring new insights to the existing scholarship.
+
+- Topic Selection (5%): Meet with Kwok-leong in person to decide your project topic by the end of the third week (2026-02-14).
+- Progress Presentations (10% total): Each student will give two progress presentations in class (5% each).
+- Final Presentation (10%): Each student will give a final presentation in the last class meeting.
+-   Final Submission (25%): Submit your project by the end of the grading deadline.
+ 
+
+The class does not require a textbook. Please watch the Programming Concepts for Python courseLinks to an external site. by the third week meeting. You should be able to access this video course by using your HarvardKey. For documentation and tutorials for specific tools that we use in class, links are in the weekly meeting materials.
+
+

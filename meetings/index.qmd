@@ -1,0 +1,8 @@
+---
+title: "Meetings"
+---
+
+## Spring 2026
+
+- [Meeting 01](../meeting_01/meeting_01.qmd)
+- [Meeting 02](../meeting_02/meeting_02.qmd)

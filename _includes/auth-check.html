@@ -1,0 +1,20 @@
+<script>
+  // Soft gate: redirect to auth page unless a matching token is present.
+  // NOTE: client-side only (not strong security).
+  (function () {
+    var expected = "__REPLACE_ME__"; // must match EXPECTED_HASH in auth.html
+    try {
+      var token = localStorage.getItem('eastd143b_access');
+      var path = window.location.pathname;
+      var isAuthPage = path.endsWith('/auth.html') || path.endsWith('/auth/') || path.endsWith('/auth');
+      if (!isAuthPage && expected !== "__REPLACE_ME__" && token !== expected) {
+        window.location.replace('auth.html');
+      }
+    } catch (e) {
+      // if storage is blocked, fail closed
+      if (!window.location.pathname.endsWith('/auth.html')) {
+        window.location.replace('auth.html');
+      }
+    }
+  })();
+</script>

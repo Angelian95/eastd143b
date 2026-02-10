@@ -1,0 +1,8 @@
+---
+title: "EASTD143B Digital Tools and Methods in East Asian Humanities (Coding Approach)"
+---
+
+Welcome to the course website for **EASTD143B (Spring 2026)**.
+
+- See the [Syllabus](syllabus/syllabus.qmd)
+- See weekly materials under [Meetings](meetings/index.qmd)

@@ -1,0 +1,47 @@
+---
+title: "EASTD143B"
+format: html
+---
+
+<div id="auth-app" style="max-width: 540px; margin: 3rem auto;">
+  <h2>Enter course password</h2>
+  <p>This site is shared with a simple access password.</p>
+
+  <input id="pw" type="password" placeholder="Password" style="width: 100%; padding: 0.6rem;" />
+  <button id="go" style="margin-top: 0.75rem; padding: 0.6rem 1rem;">Continue</button>
+
+  <p id="msg" style="color: #b00020; margin-top: 0.75rem;"></p>
+</div>
+
+<script>
+  // NOTE: This is a *client-side* gate (not strong security).
+  // It is meant as "soft" access control for casual sharing.
+
+  async function sha256(str) {
+    const enc = new TextEncoder().encode(str);
+    const buf = await crypto.subtle.digest('SHA-256', enc);
+    return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  // TODO (KL): replace this hash with SHA-256(password). Keep the password itself out of git.
+  // You can compute SHA-256 quickly with: `python3 -c "import hashlib; print(hashlib.sha256(b'YOURPW').hexdigest())"`
+  const EXPECTED_HASH = "__REPLACE_ME__";
+
+  const msg = document.getElementById('msg');
+  async function check() {
+    msg.textContent = "";
+    const pw = document.getElementById('pw').value;
+    const h = await sha256(pw);
+    if (h === EXPECTED_HASH) {
+      localStorage.setItem('eastd143b_access', h);
+      window.location.href = "index.html";
+    } else {
+      msg.textContent = "Incorrect password.";
+    }
+  }
+
+  document.getElementById('go').addEventListener('click', check);
+  document.getElementById('pw').addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') check();
+  });
+</script>

@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "EASTD143B (Spring 2026)"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus/syllabus.qmd
+        text: Syllabus
+      - href: meetings/index.qmd
+        text: Meetings
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    include-in-header:
+      - _includes/auth-check.html
