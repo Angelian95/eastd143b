@@ -8,7 +8,7 @@ format:
 ## Course Information
 - **Course Title**: EASTD143B Digital Tools and Methods in East Asian Humanities: Coding Approach
 - **Meeting Time**: 09:00 - 11:45, Wednesdays, Spring 2026
-- **Location**: Harvard Hall 103
+- **Location**: [Memorial Hall 028](https://essroombook.fas.harvard.edu/room.php?rm=rm0263)
 - **Instructor**: Kwok-leong Tang (kwokleongtang@fas.harvard.edu)
 - **Office Hours**: 10:30 - 12:30 , Fridays (407 CGIS South)
 
@@ -49,9 +49,9 @@ We will meet weekly for 2 hours and 45 minutes. The class will be a mix of lectu
  
 
 ## Grading 
-Class participation (20%): Students are expected to attend and participate in every class, completing assigned in-class exercises and engaging in discussions. 
-Homework assignments (30%): Homework assignments will incorporate methods, principles, and tools into your research projects. 
-Final project: The final project will include a meeting with Kwok-leong to discuss the project by the end of the third week (5%), a proposal (5%), a presentation (10%), a work journal (10%), and a final product (20%). 
+-Class participation (20%): Students are expected to attend and participate in every class, completing assigned in-class exercises and engaging in discussions. 
+-Homework assignments (30%): Homework assignments will incorporate methods, principles, and tools into your research projects. 
+- Final project: The final project will include a meeting with Kwok-leong to discuss the project by the end of the third week (5%), two progress reports (5% each), a presentation (10%), and a final product (25%). 
  
 
 ## Class Policies 
@@ -108,7 +108,7 @@ The core of this course is your research project. Kwok-leong encourages you to w
 - Topic Selection (5%): Meet with Kwok-leong in person to decide your project topic by the end of the third week (2026-02-14).
 - Progress Presentations (10% total): Each student will give two progress presentations in class (5% each).
 - Final Presentation (10%): Each student will give a final presentation in the last class meeting.
--   Final Submission (25%): Submit your project by the end of the grading deadline.
+- Final Submission (25%): Submit your project by the end of the grading deadline.
  
 
 The class does not require a textbook. Please watch the Programming Concepts for Python courseLinks to an external site. by the third week meeting. You should be able to access this video course by using your HarvardKey. For documentation and tutorials for specific tools that we use in class, links are in the weekly meeting materials.
