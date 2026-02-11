@@ -1,8 +1,6 @@
 name: Publish Quarto website to GitHub Pages
 
 on:
-  push:
-    branches: [ 2026 ]
   workflow_dispatch:
 
 permissions:
