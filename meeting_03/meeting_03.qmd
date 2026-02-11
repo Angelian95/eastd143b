@@ -16,7 +16,23 @@ author: "Kwok-leong Tang"
 
 # Today's Schedule
 
-- 
+- Return to the terminal
+- A litte bit about version control
+- Let's try Openwork 
 
-# 
+# Return to the terminal
 
+## What is the terminal? 
+
+:::{.callout-important}
+A Terminal is a text-based interface for your computer.
+::: 
+
+Think of it as a conversation window. Instead of clicking icons (which is like pointing at things on a menu), you type commands (like speaking to a waiter) to tell the computer exactly what to do.
+
+# A litte bit about version control
+
+
+# Let's try Openwork
+
+In order to start using agentic approach for your research as soon as possible, we will use Openwork, an easy-to-use version of OpenCode. We will 
