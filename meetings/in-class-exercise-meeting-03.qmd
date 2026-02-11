@@ -1,0 +1,150 @@
+---
+title: "In-class Exercise (Meeting 03): Terminal + Codespaces + Pull Request"
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    link-external-newwindow: true
+    code-overflow: wrap
+    code-copy: true
+# pdf output disabled
+---
+
+## Goal
+By the end of this exercise, you will be able to:
+
+- navigate a project using basic terminal commands;
+- create a Markdown file in the correct folder;
+- commit and push changes to your own branch;
+- open a Pull Request (PR) to submit your work.
+
+## Setup (Codespaces)
+
+1. Open the course repo on GitHub: `kltng/eastd143b`
+2. Click **Code → Codespaces → Create codespace on 2026**
+3. In Codespaces, open the **Terminal**.
+
+## Part A — Basic terminal commands (practice)
+
+Run these commands and briefly note what each one shows.
+
+1) Where am I?
+
+```bash
+pwd
+```
+
+2) What files/folders are here?
+
+```bash
+ls
+```
+
+3) Move into a folder and list again:
+
+```bash
+cd in-class
+ls
+```
+
+4) Move back to the repo root:
+
+```bash
+cd ..
+pwd
+```
+
+5) Find the Meeting 03 in-class folder:
+
+```bash
+ls in-class
+ls in-class/meeting_03
+```
+
+If `in-class/meeting_03` does not exist, create it:
+
+```bash
+mkdir -p in-class/meeting_03
+```
+
+## Part B — Create your submission file
+
+Create a Markdown file inside `in-class/meeting_03/`.
+
+**File name format**: use your initials in the format:
+
+- `t_ab.md`
+
+Example name: `t_kl.md`
+
+Create the file (choose one method):
+
+**Method 1 (quick, terminal):**
+
+```bash
+cat > in-class/meeting_03/t_ab.md <<'MD'
+# Meeting 03 — Terminal practice
+
+## 1) Three commands I learned today
+-
+-
+-
+
+## 2) One thing that confused me
+-
+
+## 3) One question for next class
+-
+MD
+```
+
+**Method 2 (editor):** create the file in the file explorer and type the same content.
+
+## Part C — Git workflow (branch → commit → push → PR)
+
+1) Confirm you are on the `2026` branch:
+
+```bash
+git status
+git branch --show-current
+```
+
+2) Create your own branch:
+
+```bash
+git checkout -b meeting03/t_ab
+```
+
+3) Check what changed:
+
+```bash
+git status
+git diff
+```
+
+4) Stage + commit:
+
+```bash
+git add in-class/meeting_03/t_ab.md
+git commit -m "Add Meeting 03 in-class submission (t_ab)"
+```
+
+5) Push your branch:
+
+```bash
+git push -u origin meeting03/t_ab
+```
+
+6) Open a Pull Request:
+
+- In GitHub, click **Compare & pull request**
+- Base branch: `2026`
+- Title: `Meeting 03 submission: t_ab`
+- Submit the PR
+
+## Submission checklist
+
+- [ ] your file is in `in-class/meeting_03/`
+- [ ] filename matches `t_ab.md`
+- [ ] PR base branch is `2026`
