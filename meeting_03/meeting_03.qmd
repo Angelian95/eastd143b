@@ -16,21 +16,22 @@ author: "Kwok-leong Tang"
 
 # Today's Schedule
 
-- A litte bit about version control
+- A little bit about version control
 - Return to the terminal
-- Let's try Openwork 
+- Let’s try Openwork
+- In-class exercise (Terminal + Codespaces + Pull Request)
 
 # Return to the terminal
 
-## What is the terminal? 
+## What is the terminal?
 
 :::{.callout-important}
-A Terminal is a text-based interface for your computer.
+A terminal is a text-based interface for your computer.
 ::: 
 
 Think of it as a conversation window. Instead of clicking icons (which is like pointing at things on a menu), you type commands (like speaking to a waiter) to tell the computer exactly what to do.
 
-# A litte bit about version control
+# A little bit about version control
 
 ## Package Managers
 
@@ -211,9 +212,9 @@ Quarto is an open-source scientific and technical publishing system. It:
 - Supports Python, R, Julia, and more.
 - Ideal for reproducible documents, such as articles, presentations, or data analyses.
 
-### Install of Quarto CLI
+### Install the Quarto CLI
 
-Using the Official Installer:
+Using the official installer:
 
 1.	Download Installer: Visit the [Quarto Downloads page](https://quarto.org/docs/download/) and download the installer for your OS.
 2.	Run Installer.
@@ -222,9 +223,9 @@ Using the Official Installer:
 quarto --version
 ```
 
-### Install Quarto Extension for VSCode
+### Install the Quarto extension for Antigravity
 
-1. Open VSCode.
+1. Open Antigravity.
 2. Click the "Extensions" button on the left sidebar.
 3. Search for "Quarto" and click "Install".
 
@@ -356,6 +357,12 @@ This guide will walk you through the process of creating a folder, initializing 
 - The `git push` command uploads local repository content to a remote repository.
 
 By following these steps, you've successfully created a project, tracked its versions using Git, and published it to GitHub.
+
+## In-class exercise (Terminal + Codespaces + Pull Request)
+
+Please complete the in-class exercise here:
+
+- [In-class Exercise (Meeting 03)](../meetings/in-class-exercise-meeting-03.qmd)
 
 # Let's try Openwork
 
