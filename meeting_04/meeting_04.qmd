@@ -47,4 +47,20 @@ Landing page: https://notebooklm.google/
 
 # OCR tool for Apple.
 
+The software is called "glm-ocr-mlx". It is in the folder `glm-ocr-mlx/`. You can download the file and unzip it. Read the `README.md` file for instructions on how to use it. Currently, it only works on Apple Silicon computers. If you have a Windows/Linux/Apple Intel computer, you can use the OCR tool for LM Studio/Ollama which we will introduce in the next section.
+
+:::{.callout-important}
+Why we need JSON files for OCR output?
+::: 
+
 # OCR tool for LM Studio/Ollama.
+
+Repository:[https://github.com/kltng/ocr_batch_processor](https://github.com/kltng/ocr_batch_processor)
+
+Ollama: [https://ollama.com/](https://ollama.com/)
+
+
+# Use Openwork or chatbots to clean the OCR output and turn them into clickable links.
+
+If you cannot get the OCR output, you can use the json files in the `ocr_output/` folder. They are the output of glm-ocr-mlx software. You can use Openwork or chatbots to clean the OCR output and extract the abbreviations and their meanings into a table.
+
