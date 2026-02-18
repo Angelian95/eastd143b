@@ -1,0 +1,2888 @@
+[
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          145,
+          114,
+          844,
+          205
+        ],
+        "polygon": [
+          [
+            145,
+            114
+          ],
+          [
+            151,
+            205
+          ],
+          [
+            844,
+            205
+          ],
+          [
+            844,
+            114
+          ]
+        ],
+        "content": "not an official compilation like the other Shih-lu, but apparently a private one. Nothing is known about the author and the date of compilation. There exists only one ancient manuscript copy, now in the possession of the Academia Sinica, Taiwan. A photographic reprint is included in the 1940 edition of the Ming shih-lu. The Shih-lu for the first four moons of the reign of the Ch'ung-chen emperor, 9th moon to 12th moon T'ien-ch'i 7, are in the 1940 edition attached to the Hsi-tsung shih-lu (No. 1.1.13).",
+        "native_label": "text"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          147,
+          203,
+          403,
+          220
+        ],
+        "polygon": [
+          [
+            147,
+            203
+          ],
+          [
+            147,
+            220
+          ],
+          [
+            402,
+            220
+          ],
+          [
+            402,
+            203
+          ]
+        ],
+        "content": "REF. : Hsieh Kuo-chen 4,31a.",
+        "native_label": "text"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          79,
+          235,
+          580,
+          253
+        ],
+        "polygon": [
+          [
+            79,
+            235
+          ],
+          [
+            79,
+            253
+          ],
+          [
+            579,
+            253
+          ],
+          [
+            579,
+            235
+          ]
+        ],
+        "content": "## 1.1.15 Hung-kuang shih-lu ch'ao 弦光實錄鈔 (1658)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          146,
+          256,
+          843,
+          345
+        ],
+        "polygon": [
+          [
+            146,
+            261
+          ],
+          [
+            146,
+            345
+          ],
+          [
+            842,
+            345
+          ],
+          [
+            842,
+            256
+          ],
+          [
+            151,
+            256
+          ]
+        ],
+        "content": "4 chiuan covering the period from keng-yin 5th moon Ch'ung-chen 17 (1644) to keng-hsü 7th moon Hung-kuang 1 (1645), the reign of Yu-sung Prince Fu 福王由崧 at Nanking. Compiled from the Metropolitan Gazette, ti-pao 郵報, by Huang Tsung-hsi 黄宗羲 (1610-1695) from Yü-yao 餘姚, Chekiang: 33-Index, p. 165a; TRD, III, 109; ARJ, III, 272-273; Giles, B.D. No. 874; Eminent Chinese, I, 351-354. Preface, by the author, 1658. Contained in痛史和中國內外 vol.8.",
+        "native_label": "text"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          146,
+          347,
+          844,
+          380
+        ],
+        "polygon": [
+          [
+            146,
+            351
+          ],
+          [
+            152,
+            379
+          ],
+          [
+            843,
+            379
+          ],
+          [
+            843,
+            347
+          ],
+          [
+            232,
+            347
+          ],
+          [
+            197,
+            347
+          ]
+        ],
+        "content": "REF.: Hsieh Kuo-chen 10, 3a-4b; Chu Hsi-tsu pp. 40-42; H. Wilhelm in MS, VII, 1942, p. 116; W. Franke in Sinologische Arbeiten 1, 1943, p. 32.",
+        "native_label": "text"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          80,
+          406,
+          707,
+          428
+        ],
+        "polygon": [
+          [
+            80,
+            406
+          ],
+          [
+            85,
+            428
+          ],
+          [
+            706,
+            428
+          ],
+          [
+            706,
+            406
+          ],
+          [
+            671,
+            406
+          ],
+          [
+            651,
+            406
+          ]
+        ],
+        "content": "## 1.2 The Huang Ming t'ung-chi, its editions and supplements",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          81,
+          436,
+          526,
+          455
+        ],
+        "polygon": [
+          [
+            81,
+            436
+          ],
+          [
+            81,
+            445
+          ],
+          [
+            81,
+            454
+          ],
+          [
+            525,
+            454
+          ],
+          [
+            525,
+            436
+          ]
+        ],
+        "content": "## 1.2.1 Huang Ming t'ung-chi 皇明通紀 (1555)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          80,
+          457,
+          847,
+          748
+        ],
+        "polygon": [
+          [
+            80,
+            457
+          ],
+          [
+            85,
+            748
+          ],
+          [
+            847,
+            748
+          ],
+          [
+            847,
+            457
+          ]
+        ],
+        "content": "Number of chuan varies, by Ch'en Chien 陈建 (1497-1567, 1528 cj.) from Tung-kuan 東莞, Kuangtung: 89-Index, III, 201a; 東莞縣志, 1926 edition, 58, 6a-9a. History for the period from the beginning of the dynasty, 1351, to the end of Cheng-te, 1521. It was the first comprehensive history of the Ming dynasty at that time. According to the author's preface he was persuaded by a friend to write a chronicle of the Ming, since at that time no such work did exist. Ch'en Chien's work must thus have been one of the most popular histories of the Ming dynasty. But soon after its publication it was severely criticized for misleading statements and for an alleged distortion of the historical truth. As early as during the Lung-ch'ing period the censor Li Kuei-ho 李貴和 proposed the burning of the printing blocks of the T'ung-chi and got the emperor's consent. But apparently this order had only a limited effect. The book was soon reprinted and became all the more popular; it is even quoted quite often in the T'u-shu chi-ch'eng. It has been suggested that the book was not written by Ch'en Chien but by Liang I 梁億 (1511 cs.) from Shun-te 順德, Kuangtung, younger brother of Liang Ch'u 梁儲 (1451-1527, 1478 cs. 89-Index, II, 182b); 順德縣志, edition 1853, 23, 37a. During the Ch'ing period the T'ung-chi, including all new editions and supplements, was listed for suppression. Preface by the author 1555. No copies of the original edition are known. But there is a large number of later editions and supplements still extant. Probably there are even more than listed below.",
+        "native_label": "text"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          149,
+          750,
+          847,
+          783
+        ],
+        "polygon": [
+          [
+            149,
+            750
+          ],
+          [
+            149,
+            782
+          ],
+          [
+            847,
+            782
+          ],
+          [
+            847,
+            750
+          ]
+        ],
+        "content": "REF.: CCT,4,11a；明史藝文志,p.33；TSS,p.229b；ARJ,III,311；Shen Te-fu沈德符，野獲編 (see No.4.1.5)25,pp.638-639.",
+        "native_label": "text"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          84,
+          795,
+          559,
+          814
+        ],
+        "polygon": [
+          [
+            84,
+            795
+          ],
+          [
+            84,
+            813
+          ],
+          [
+            558,
+            813
+          ],
+          [
+            558,
+            795
+          ]
+        ],
+        "content": "## 1.2.2 Huang Ming Ch'i-yun lu 皇明啓運錄 (1555)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          85,
+          817,
+          617,
+          834
+        ],
+        "polygon": [
+          [
+            85,
+            817
+          ],
+          [
+            85,
+            833
+          ],
+          [
+            616,
+            833
+          ],
+          [
+            616,
+            817
+          ],
+          [
+            155,
+            817
+          ]
+        ],
+        "content": "(24) 8 chüan by Ch'en Chien 陳建 (1497-1567, 1528 cj.).",
+        "native_label": "text"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          150,
+          833,
+          848,
+          878
+        ],
+        "polygon": [
+          [
+            150,
+            833
+          ],
+          [
+            150,
+            877
+          ],
+          [
+            847,
+            877
+          ],
+          [
+            847,
+            833
+          ]
+        ],
+        "content": "Korean reprint of the first part of the Huang Ming t'ung-chi covering the beginning of the dynasty to the end of the Hung-wu period (1398) which has the sub-title Ch'i-yün lu. Preface by the author to the whole work, 1555.",
+        "native_label": "text"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          151,
+          880,
+          458,
+          898
+        ],
+        "polygon": [
+          [
+            151,
+            880
+          ],
+          [
+            151,
+            897
+          ],
+          [
+            458,
+            897
+          ],
+          [
+            458,
+            880
+          ]
+        ],
+        "content": "cop.: Naikaku bunko (Cat., p. 84).",
+        "native_label": "text"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          136,
+          104,
+          735,
+          123
+        ],
+        "polygon": [
+          [
+            136,
+            104
+          ],
+          [
+            136,
+            118
+          ],
+          [
+            186,
+            122
+          ],
+          [
+            605,
+            122
+          ],
+          [
+            611,
+            122
+          ],
+          [
+            620,
+            122
+          ],
+          [
+            735,
+            122
+          ],
+          [
+            735,
+            104
+          ]
+        ],
+        "content": "## 1.2.3 Huang Ming t'ung-chi ch'ien-pien 皇明通紀前編 (1605)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          135,
+          127,
+          900,
+          267
+        ],
+        "polygon": [
+          [
+            135,
+            127
+          ],
+          [
+            140,
+            266
+          ],
+          [
+            899,
+            266
+          ],
+          [
+            899,
+            127
+          ]
+        ],
+        "content": "(24h) 14 chüan by Pu Shih-ch'ang卜世昌(late Ming) from Hsiu-shui秀水, Chekiang. These 14 chüan comprise the work by Ch'en Chien. A supplement covering the Chia-ching period to 1566 was added by Pu Ta-yu卜大有(1547 cs.) from Hsiu-shui, (89-Index, II, 2a) and edited by Pu Shih-ch'ang with the title Huang Ming hsü-chi皇明續紀 in 3 chüan. A further supplement is the Huang Ming t'ung-chi shu-i皇明通紀述遺 by Pu Shih-ch'ang in 12 chüan. Chüan1-11 contain additions and supplements to the two previous works, chüan12 covers the Lung-ch'ing period to 1572. The latter has prefaces by Feng Meng-chen 馮夢顔, 1605; by T'u Lung屠隆, and by Pu Wan-ch'i卜萬誄, 1605. Printed at the聚奎堂.",
+        "native_label": "text"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          199,
+          269,
+          374,
+          285
+        ],
+        "polygon": [
+          [
+            199,
+            269
+          ],
+          [
+            199,
+            285
+          ],
+          [
+            374,
+            285
+          ],
+          [
+            374,
+            269
+          ]
+        ],
+        "content": "REF.: CCT, 4, 11b.",
+        "native_label": "text"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          201,
+          286,
+          675,
+          304
+        ],
+        "polygon": [
+          [
+            201,
+            291
+          ],
+          [
+            201,
+            304
+          ],
+          [
+            675,
+            304
+          ],
+          [
+            675,
+            286
+          ],
+          [
+            262,
+            286
+          ]
+        ],
+        "content": "cop. : (whole work): Leiden; Sonkeikaku (Cat., p. 158).",
+        "native_label": "text"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          258,
+          305,
+          470,
+          320
+        ],
+        "polygon": [
+          [
+            258,
+            305
+          ],
+          [
+            258,
+            320
+          ],
+          [
+            469,
+            320
+          ],
+          [
+            469,
+            305
+          ]
+        ],
+        "content": "(前編): No copy known.",
+        "native_label": "text"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          257,
+          320,
+          527,
+          336
+        ],
+        "polygon": [
+          [
+            257,
+            320
+          ],
+          [
+            257,
+            335
+          ],
+          [
+            526,
+            335
+          ],
+          [
+            526,
+            320
+          ]
+        ],
+        "content": "(續紀): Jimbun (Cat., p. 147c);",
+        "native_label": "text"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          255,
+          334,
+          719,
+          353
+        ],
+        "polygon": [
+          [
+            255,
+            334
+          ],
+          [
+            255,
+            353
+          ],
+          [
+            718,
+            353
+          ],
+          [
+            718,
+            334
+          ]
+        ],
+        "content": "(述遺): LC (Cat., pp.119-120); Naikaku (Cat., p.73).",
+        "native_label": "text"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          133,
+          369,
+          899,
+          406
+        ],
+        "polygon": [
+          [
+            133,
+            369
+          ],
+          [
+            133,
+            406
+          ],
+          [
+            899,
+            406
+          ],
+          [
+            899,
+            369
+          ]
+        ],
+        "content": "## 1.2.4 (Hsin-ch'ieh kuan-pan yin-shih piao-t'i) Huang Ming t'ung-chi (新鍥官板音釋標題)皇明通紀 (Wan-li)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          134,
+          410,
+          899,
+          541
+        ],
+        "polygon": [
+          [
+            134,
+            410
+          ],
+          [
+            139,
+            540
+          ],
+          [
+            898,
+            540
+          ],
+          [
+            898,
+            410
+          ]
+        ],
+        "content": "(24i) 10+3 chiian.The first 10 chiuan are the original work by Ch'en Chien with a preface by the author dated 1555. Printed at Nanking by the摘星楼.The following 3 chiuan are supplements for the Chia-ching and Lung-ch'ing periods to 1572 by Pu Ta-yu卜大有(1547 cs.) from Hsiu-shui秀水，Chekiang (89-Index, II, 2a) with the title Huang Ming hsi-chi 皇明續紀.This part has additional notes by Chih Ta-lun 支大綸 (1574 cs.) from Chia-shan嘉善，Chekiang (89-Index, II, 193c); and by Wu Jui-teng 昊瑞登 (1586 ks.) from Wu-chin武進，Kiangsu (武進陽湖縣志， edition 1879, 20, 19a and 23, 20a). Printed during the Wan-li period.",
+        "native_label": "text"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          200,
+          536,
+          448,
+          555
+        ],
+        "polygon": [
+          [
+            200,
+            536
+          ],
+          [
+            200,
+            554
+          ],
+          [
+            448,
+            554
+          ],
+          [
+            448,
+            536
+          ]
+        ],
+        "content": "cop. : Naikaku (Cat., p. 72).",
+        "native_label": "text"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          131,
+          572,
+          897,
+          608
+        ],
+        "polygon": [
+          [
+            131,
+            572
+          ],
+          [
+            131,
+            608
+          ],
+          [
+            896,
+            608
+          ],
+          [
+            896,
+            572
+          ]
+        ],
+        "content": "## 1.2.5 (Hsin-chun chiao-cheng piao-t'i) Huang Ming t'ung-chi (新鋟校正標題)皇明通紀 (1608)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          130,
+          613,
+          897,
+          723
+        ],
+        "polygon": [
+          [
+            130,
+            613
+          ],
+          [
+            136,
+            723
+          ],
+          [
+            897,
+            723
+          ],
+          [
+            897,
+            613
+          ]
+        ],
+        "content": "(24k) 11 chiian. Probably a reprint of the last-mentioned edition with another division. Chiian 1-9 are the original work by Ch'en Chien, chi'an 10-11 cover the Chia-ching and Lung-ch'in periods to 1572. Although Pu Ta-yu卜大有 is not mentioned as the author of the supplement, the text has the same additional notes by Chih Ta-lun支大綸 and Wu Jui-teng 呉瑞登. The preface by Ch'en Chien is dated 1586 (?). In an inner page, the work has the title Huang Ming tzu-chih t'ung-chi ta-ch'iun皇明資治通紀大全. Reprint (重梓) of 1608.",
+        "native_label": "text"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          197,
+          723,
+          619,
+          742
+        ],
+        "polygon": [
+          [
+            197,
+            723
+          ],
+          [
+            197,
+            737
+          ],
+          [
+            223,
+            742
+          ],
+          [
+            619,
+            742
+          ],
+          [
+            619,
+            723
+          ]
+        ],
+        "content": "cop.: Seikadō (Cat., p. 253); Hōsa (Cat., p. 32).",
+        "native_label": "text"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          129,
+          757,
+          782,
+          776
+        ],
+        "polygon": [
+          [
+            129,
+            757
+          ],
+          [
+            129,
+            776
+          ],
+          [
+            781,
+            776
+          ],
+          [
+            781,
+            757
+          ]
+        ],
+        "content": "## 1.2.6 Huang Ming t'ung-chi ts'ung-hsin lu 皇明通紀從信錄 (1627)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          129,
+          780,
+          897,
+          891
+        ],
+        "polygon": [
+          [
+            129,
+            780
+          ],
+          [
+            135,
+            890
+          ],
+          [
+            896,
+            890
+          ],
+          [
+            896,
+            780
+          ]
+        ],
+        "content": "(24b) 40 chüan by Shen Kuo-yuan 沈國元 (飛仲), from Wu-hsien 吴縣, Kiangsu. Chüan 1-27 are a revised edition of Ch'en Chien's Huang Ming t'ung-chi (No. 1.2.1) with commentary and marginal notes; chüan 28-40 cover the Chia-ching, Lung-ch'ing, and Wan-li periods from 1522 to 1620 with a few commentaries and marginal notes. Preface 1620. A supplement under the title Liang-ch'ao ts'ung-hsin lu 兩朝從信錄 in 35 chüan by the same author covers the T'ai-ch'ang and T'ien-ch'i periods from 1620 to 1627. Prefaces by Ch'en I-tien 陳懿典 and by the author. Both works",
+        "native_label": "text"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          146,
+          109,
+          844,
+          142
+        ],
+        "polygon": [
+          [
+            146,
+            109
+          ],
+          [
+            146,
+            142
+          ],
+          [
+            539,
+            142
+          ],
+          [
+            555,
+            142
+          ],
+          [
+            565,
+            142
+          ],
+          [
+            580,
+            142
+          ],
+          [
+            844,
+            142
+          ],
+          [
+            844,
+            109
+          ]
+        ],
+        "content": "prohibited; original edition only. Shen's work is said to be the most valuable edition and in particular the most valuable supplement of the Huang Ming t'ung-chi.",
+        "native_label": "text"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          147,
+          143,
+          844,
+          177
+        ],
+        "polygon": [
+          [
+            147,
+            143
+          ],
+          [
+            147,
+            176
+          ],
+          [
+            844,
+            176
+          ],
+          [
+            844,
+            143
+          ]
+        ],
+        "content": "REF.: CCT, 4, 12a; TRD, VIII, 481 (erroneously mixes up both titles); TSS, p. 229b; Hsieh Kuo-chen, 1, 16b-18a and 4, 18b-20b; ARJ, III, 310.",
+        "native_label": "text"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          147,
+          177,
+          399,
+          195
+        ],
+        "polygon": [
+          [
+            147,
+            181
+          ],
+          [
+            147,
+            194
+          ],
+          [
+            398,
+            194
+          ],
+          [
+            398,
+            177
+          ],
+          [
+            273,
+            177
+          ],
+          [
+            247,
+            177
+          ],
+          [
+            213,
+            177
+          ],
+          [
+            207,
+            177
+          ],
+          [
+            203,
+            177
+          ],
+          [
+            197,
+            177
+          ],
+          [
+            192,
+            177
+          ],
+          [
+            177,
+            177
+          ],
+          [
+            172,
+            177
+          ]
+        ],
+        "content": "cop.: Jimbun (Cat., p. 182).",
+        "native_label": "text"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          79,
+          209,
+          790,
+          228
+        ],
+        "polygon": [
+          [
+            79,
+            209
+          ],
+          [
+            79,
+            228
+          ],
+          [
+            790,
+            228
+          ],
+          [
+            790,
+            209
+          ]
+        ],
+        "content": "## 1.2.7 Huang Ming shih-liu-ch'ao kuang-hui chi 皇明十六朝廣彙記 (1632)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          146,
+          233,
+          845,
+          278
+        ],
+        "polygon": [
+          [
+            146,
+            233
+          ],
+          [
+            146,
+            277
+          ],
+          [
+            844,
+            277
+          ],
+          [
+            844,
+            233
+          ]
+        ],
+        "content": "28 chiuan by Wang Hsiang 王襄 (a private scholar of the late Ming/early Ch'ing period) from An-fu 安福, Kiangsi: 安福縣志,1872 edition,11,25a-b; and by Ch'en Lung-k'o 陳龍可 (1622 cs.) from Chin-chiang 晉江,Fukien: see No.1.2.8.",
+        "native_label": "text"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          145,
+          276,
+          845,
+          397
+        ],
+        "polygon": [
+          [
+            145,
+            282
+          ],
+          [
+            145,
+            397
+          ],
+          [
+            845,
+            397
+          ],
+          [
+            845,
+            276
+          ],
+          [
+            686,
+            276
+          ],
+          [
+            680,
+            276
+          ],
+          [
+            360,
+            276
+          ],
+          [
+            151,
+            276
+          ]
+        ],
+        "content": "Chuan 1-11 are a revised edition of Ch'en Chien's Huang Ming t'ung-chi (see No.1.2.1) covering the period from the beginning of the dynasty to the end of Hung-chih (1505). Chuan 12-28 cover the time down to 1627. Almost half of the whole work (chuan 19-28) covers the seven years of T'ien-ch'i (1621-27) only. The events on the Liao-tung border during this time are dealt with in particular detail. Corrected (較) by Ch'iu Yu 丘酉. Prefaces by Wang Hsiang, Li K'ang-hsien李康先, and Tsou Te-yung 鄒德泳, all dated 1632; by Ch'iu Yu, 1631. Printed at the Yu-shih-chu 友石居.",
+        "native_label": "text"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          146,
+          400,
+          527,
+          417
+        ],
+        "polygon": [
+          [
+            146,
+            400
+          ],
+          [
+            146,
+            417
+          ],
+          [
+            527,
+            417
+          ],
+          [
+            527,
+            400
+          ]
+        ],
+        "content": "REF.: CCT, 4, 12b; Hsieh Kuo-chen 1, 18a.",
+        "native_label": "text"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          146,
+          418,
+          397,
+          436
+        ],
+        "polygon": [
+          [
+            146,
+            418
+          ],
+          [
+            146,
+            435
+          ],
+          [
+            396,
+            435
+          ],
+          [
+            396,
+            418
+          ]
+        ],
+        "content": "cop. : Naikaku (Cat., p. 84).",
+        "native_label": "text"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          80,
+          451,
+          771,
+          470
+        ],
+        "polygon": [
+          [
+            80,
+            451
+          ],
+          [
+            80,
+            469
+          ],
+          [
+            770,
+            469
+          ],
+          [
+            770,
+            451
+          ]
+        ],
+        "content": "## 1.2.8 Huang Ming t'ung-chi chi-lu 皇明通紀幃錄 (Ch'ung-chen period)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          144,
+          474,
+          841,
+          505
+        ],
+        "polygon": [
+          [
+            144,
+            474
+          ],
+          [
+            144,
+            504
+          ],
+          [
+            840,
+            504
+          ],
+          [
+            840,
+            474
+          ]
+        ],
+        "content": "27 chüan by Ch'en Lung-k'o 陳龍可 (1622 cs.) from Chin-chiang 晉江, Fukien: 晉江縣志, edition 1765, 11, 62a.",
+        "native_label": "text"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          145,
+          504,
+          845,
+          657
+        ],
+        "polygon": [
+          [
+            145,
+            504
+          ],
+          [
+            145,
+            656
+          ],
+          [
+            844,
+            656
+          ],
+          [
+            844,
+            504
+          ]
+        ],
+        "content": "Chüan 1-15 are a new edition of Ch'en Chien's Huang Ming t'ung-chi 皇明通紀 (No.1.2.1) with commentary and marginal notes by Ch'iu Chün 丘瀚, covering the time from the beginning of the dynasty to the end of Cheng-te (1521). Chüan 16 by Ch'en Lung-k'o, edited (鑒定) by Ch'en Tzu-chuang 陳子壯 covers the first 22 years of Chia-ching to 1543. Chüan 17-24 by Ch'en Lung-k'o, edited (鑒定) by Ch'iu Erh-ku 丘爾穀, cover the period from Chia-ching 23 (1544) to the end of T'ien-ch'i 2 (1622). Chüan 25-27 without the name of the author or editor given, cover the years T'ien-ch'i 3-7 (1623-1627). The appendix, Wen-kuan p'in-chih yüeh-feng 文官品職月俸 lists the ranks and salaries of civil officials. Preface by Ch'en Jen-hsi 陳仁錫; printed at 吳門五車樓.",
+        "native_label": "text"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          146,
+          659,
+          790,
+          676
+        ],
+        "polygon": [
+          [
+            146,
+            659
+          ],
+          [
+            146,
+            675
+          ],
+          [
+            790,
+            675
+          ],
+          [
+            790,
+            659
+          ]
+        ],
+        "content": "cop.: Princeton. The same edition is also known under the following titles:",
+        "native_label": "text"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          148,
+          679,
+          844,
+          769
+        ],
+        "polygon": [
+          [
+            148,
+            679
+          ],
+          [
+            148,
+            768
+          ],
+          [
+            843,
+            768
+          ],
+          [
+            843,
+            679
+          ]
+        ],
+        "content": "Huang Ming (erh-tsu shih-szu-tsung tseng-pu piao-t'i p'ing-tuan) shih-chi 皇明 (二祖十四宗增補標題評斷) 實紀 (cop.: Private possession of the late Professor Wada Sei 和田渏, Tokyo). There is another copy under this title with the same contents giving for chüan 16, Ch'en Lung-k'o as author and Ch'iu Chün as editor, and for chüan 17-24, Ch'en Lung-k'o as author and Shen Kuo-yuan 沈國元, the author of the Huang Ming ts'ung-hsin lu 皇明從信錄 (see No. 1.2.6) as editor.",
+        "native_label": "text"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          165,
+          772,
+          466,
+          788
+        ],
+        "polygon": [
+          [
+            165,
+            772
+          ],
+          [
+            165,
+            788
+          ],
+          [
+            466,
+            788
+          ],
+          [
+            466,
+            772
+          ]
+        ],
+        "content": "REF.: Hsieh Kuo-chen 1, 19a-20a.",
+        "native_label": "text"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          166,
+          790,
+          414,
+          807
+        ],
+        "polygon": [
+          [
+            166,
+            790
+          ],
+          [
+            166,
+            806
+          ],
+          [
+            414,
+            806
+          ],
+          [
+            414,
+            790
+          ]
+        ],
+        "content": "cop.: Naikaku (Cat., p. 73).",
+        "native_label": "text"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          147,
+          809,
+          842,
+          843
+        ],
+        "polygon": [
+          [
+            147,
+            809
+          ],
+          [
+            147,
+            842
+          ],
+          [
+            842,
+            842
+          ],
+          [
+            842,
+            809
+          ]
+        ],
+        "content": "Huang Ming (erh-tsu shih-szu-tsung tseng-pu piao-t'i p'ing-tuan) t'ung-chi 皇明 （二祖十四宗增補標題評斷）通紀, has the appendix at the beginning.",
+        "native_label": "text"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          166,
+          845,
+          414,
+          861
+        ],
+        "polygon": [
+          [
+            166,
+            845
+          ],
+          [
+            166,
+            861
+          ],
+          [
+            414,
+            861
+          ],
+          [
+            414,
+            845
+          ]
+        ],
+        "content": "cop.: Naikaku (Cat., p. 73).",
+        "native_label": "text"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          146,
+          862,
+          844,
+          895
+        ],
+        "polygon": [
+          [
+            146,
+            866
+          ],
+          [
+            146,
+            894
+          ],
+          [
+            843,
+            894
+          ],
+          [
+            843,
+            862
+          ],
+          [
+            221,
+            862
+          ],
+          [
+            151,
+            862
+          ]
+        ],
+        "content": "The authenticity of the authors and editors of this work seems to be rather questionable. The well-known Ch'iu Chun died as early as Hung-chih 8 (1495)",
+        "native_label": "text"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          226,
+          106,
+          925,
+          158
+        ],
+        "polygon": [
+          [
+            226,
+            111
+          ],
+          [
+            232,
+            157
+          ],
+          [
+            615,
+            157
+          ],
+          [
+            924,
+            157
+          ],
+          [
+            924,
+            106
+          ]
+        ],
+        "content": "and could not be the editor of a historical work going down to 1521 and even to 1543. There may, however, be another person of the same name living in the seventeenth century.",
+        "native_label": "text"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          161,
+          181,
+          730,
+          202
+        ],
+        "polygon": [
+          [
+            161,
+            187
+          ],
+          [
+            161,
+            201
+          ],
+          [
+            730,
+            201
+          ],
+          [
+            730,
+            181
+          ],
+          [
+            511,
+            181
+          ],
+          [
+            186,
+            181
+          ],
+          [
+            166,
+            181
+          ]
+        ],
+        "content": "## 1.2.9 Huang Ming t'ung-chi chi-yao 皇明通紀輯要 (1639)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          162,
+          204,
+          924,
+          235
+        ],
+        "polygon": [
+          [
+            162,
+            204
+          ],
+          [
+            162,
+            230
+          ],
+          [
+            172,
+            230
+          ],
+          [
+            207,
+            235
+          ],
+          [
+            923,
+            235
+          ],
+          [
+            923,
+            204
+          ]
+        ],
+        "content": "(24d) 24 chuan by Ma Chin-yun 馬晉允 (1658 cs.) from Yü-yao 餘姚, Chekiang: 餘姚縣志. edition 1899. 19b. 42a.",
+        "native_label": "text"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          227,
+          235,
+          925,
+          298
+        ],
+        "polygon": [
+          [
+            227,
+            235
+          ],
+          [
+            227,
+            298
+          ],
+          [
+            925,
+            298
+          ],
+          [
+            925,
+            235
+          ]
+        ],
+        "content": "Chiwan 1-13 refer to the period covered by Ch'en Chien's original work; chiuan 14-24 covering the period from Chia-ching to the end of T'ien-ch'i, 1627, were added by Ma Chin-yun. Preface by the author, 1639. Printed with movable type in 1699 in Korea.",
+        "native_label": "text"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          229,
+          301,
+          537,
+          318
+        ],
+        "polygon": [
+          [
+            229,
+            301
+          ],
+          [
+            229,
+            318
+          ],
+          [
+            536,
+            318
+          ],
+          [
+            536,
+            301
+          ]
+        ],
+        "content": "REF.: Hsieh Kuo-chen 1, 18b-19a.",
+        "native_label": "text"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          230,
+          320,
+          404,
+          336
+        ],
+        "polygon": [
+          [
+            230,
+            320
+          ],
+          [
+            230,
+            336
+          ],
+          [
+            403,
+            336
+          ],
+          [
+            403,
+            320
+          ]
+        ],
+        "content": "cop.: Tōyō bunko.",
+        "native_label": "text"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          163,
+          360,
+          769,
+          380
+        ],
+        "polygon": [
+          [
+            163,
+            360
+          ],
+          [
+            163,
+            380
+          ],
+          [
+            769,
+            380
+          ],
+          [
+            769,
+            360
+          ]
+        ],
+        "content": "## 1.2.10 Huang Ming t'ung-chi chi-yao 皇明通紀集要 (late Ming)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          163,
+          383,
+          925,
+          414
+        ],
+        "polygon": [
+          [
+            163,
+            383
+          ],
+          [
+            163,
+            403
+          ],
+          [
+            189,
+            413
+          ],
+          [
+            924,
+            413
+          ],
+          [
+            924,
+            383
+          ]
+        ],
+        "content": "(24e) 60 chüan by Chiang Hsü-ch'i江旭奇(Shun-sheng舜升；a private scholar of the late Ming) from Wu-vüan 黎源, Anhui: 黎源縣志,1882 edition,24,7a-b.",
+        "native_label": "text"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          226,
+          414,
+          926,
+          446
+        ],
+        "polygon": [
+          [
+            226,
+            414
+          ],
+          [
+            232,
+            445
+          ],
+          [
+            925,
+            445
+          ],
+          [
+            925,
+            414
+          ]
+        ],
+        "content": "Chiuan 1-27 cover Ch'en Chien's original work; chuan 28-60 are added by Chiang Hsü-ch'i and cover the period from Chia-ching to the end of T'ien-ch'i, 1627.",
+        "native_label": "text"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          230,
+          450,
+          404,
+          466
+        ],
+        "polygon": [
+          [
+            230,
+            450
+          ],
+          [
+            230,
+            466
+          ],
+          [
+            403,
+            466
+          ],
+          [
+            403,
+            450
+          ]
+        ],
+        "content": "REF. : CCT,4,12b.",
+        "native_label": "text"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          230,
+          467,
+          600,
+          485
+        ],
+        "polygon": [
+          [
+            230,
+            467
+          ],
+          [
+            230,
+            485
+          ],
+          [
+            600,
+            485
+          ],
+          [
+            600,
+            467
+          ],
+          [
+            251,
+            467
+          ],
+          [
+            235,
+            467
+          ]
+        ],
+        "content": "cop. : Toyo bunko; Seikadō (Cat., p. 253).",
+        "native_label": "text"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          163,
+          513,
+          790,
+          532
+        ],
+        "polygon": [
+          [
+            163,
+            513
+          ],
+          [
+            163,
+            532
+          ],
+          [
+            589,
+            532
+          ],
+          [
+            605,
+            532
+          ],
+          [
+            619,
+            532
+          ],
+          [
+            625,
+            532
+          ],
+          [
+            635,
+            532
+          ],
+          [
+            789,
+            532
+          ],
+          [
+            789,
+            513
+          ]
+        ],
+        "content": "## 1.2.11 Huang Ming t'ung-chi fa-ch'uan lu 皇明通紀法傳錄 (1644)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          164,
+          535,
+          926,
+          566
+        ],
+        "polygon": [
+          [
+            164,
+            535
+          ],
+          [
+            164,
+            561
+          ],
+          [
+            220,
+            566
+          ],
+          [
+            926,
+            566
+          ],
+          [
+            926,
+            535
+          ]
+        ],
+        "content": "(24c) 50 chiian by Kao Ju-ch'ih 高汝栻 (late Ming) from Hang-chou 杭州, Chekiang. New edition of Ch'en Chien's work with two supplements by the same author.",
+        "native_label": "text"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          227,
+          566,
+          928,
+          645
+        ],
+        "polygon": [
+          [
+            227,
+            571
+          ],
+          [
+            232,
+            645
+          ],
+          [
+            928,
+            645
+          ],
+          [
+            928,
+            566
+          ],
+          [
+            252,
+            566
+          ],
+          [
+            232,
+            566
+          ]
+        ],
+        "content": "Chüan 1-28 cover the period of the original work.The Chia Lung liang-ch'ao fach'uan-lu 嘉隆兩朝法傳錄 in 6 chüan covers the Chia-ching and Lung-ch'ing periods from 1522 to 1572,and the Huang Ming hsü-chi san-ch'ao fa-ch'uan-lu 皇明續紀三朝法傳錄 in 16 chüan the Wan-li, T'ai-ch'ang, and T'ien-ch'i periods from 1573 to 1627. Preface by the author, 1644. Printed at 崇文堂.",
+        "native_label": "text"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          231,
+          648,
+          405,
+          665
+        ],
+        "polygon": [
+          [
+            231,
+            648
+          ],
+          [
+            231,
+            664
+          ],
+          [
+            404,
+            664
+          ],
+          [
+            404,
+            648
+          ]
+        ],
+        "content": "REF.: CCT,4,12b.",
+        "native_label": "text"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          231,
+          666,
+          405,
+          683
+        ],
+        "polygon": [
+          [
+            231,
+            666
+          ],
+          [
+            231,
+            683
+          ],
+          [
+            405,
+            683
+          ],
+          [
+            405,
+            666
+          ]
+        ],
+        "content": "cop.: Tōyō bunko.",
+        "native_label": "text"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          165,
+          710,
+          608,
+          729
+        ],
+        "polygon": [
+          [
+            165,
+            710
+          ],
+          [
+            165,
+            728
+          ],
+          [
+            607,
+            728
+          ],
+          [
+            607,
+            710
+          ]
+        ],
+        "content": "## 1.2.12 Huang Ming t'ung-chi 皇明通紀 (1696)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          163,
+          732,
+          928,
+          871
+        ],
+        "polygon": [
+          [
+            163,
+            732
+          ],
+          [
+            163,
+            870
+          ],
+          [
+            928,
+            870
+          ],
+          [
+            928,
+            732
+          ]
+        ],
+        "content": "(24a) 13 chüan. The complete title is 新鍥李卓吾先生增補批點皇明正續合併通紀統宗. The first 10 chüan are Ch'en Chien's original text, chüan 11 by Yüan Huang 袁黃 (1586 cs.) from Chia-shan 嘉善, Chekiang (89-Index, 11, 257b) covers the Chia-ching period, and chüan 12 by Pu Ta-yu 卜大有 (1547 cs.) from Hsiu-shui 秀水, Chekiang, (89-Index, II, 2a) the Lung-ch'ing period. Marginalia by Li Chih 李贊. Chüan 13 is an appendix giving a list of the first four successful candidates in the metropolitan examinations from 1371 to 1616. Original preface by Ch'en Chien. Printed by the耕價堂 in Kyōto with a preface by Kitamura Yoshiaki 北郋可昌, 1696. Reprinted in Kyōto in 1829.",
+        "native_label": "text"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          232,
+          874,
+          576,
+          893
+        ],
+        "polygon": [
+          [
+            232,
+            874
+          ],
+          [
+            232,
+            893
+          ],
+          [
+            576,
+            893
+          ],
+          [
+            576,
+            874
+          ]
+        ],
+        "content": "cop: (1696 edition): Hosa (Cat., p. 33).",
+        "native_label": "text"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          71,
+          106,
+          833,
+          128
+        ],
+        "polygon": [
+          [
+            71,
+            106
+          ],
+          [
+            71,
+            127
+          ],
+          [
+            833,
+            127
+          ],
+          [
+            833,
+            106
+          ]
+        ],
+        "content": "## 1.3 Other works covering the whole, or a major part, of the Ming period",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          71,
+          136,
+          427,
+          155
+        ],
+        "polygon": [
+          [
+            71,
+            136
+          ],
+          [
+            71,
+            145
+          ],
+          [
+            71,
+            154
+          ],
+          [
+            426,
+            154
+          ],
+          [
+            426,
+            136
+          ]
+        ],
+        "content": "## 1.3.1 Hsien-chang lu 憲章錄 (1573)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          71,
+          157,
+          833,
+          186
+        ],
+        "polygon": [
+          [
+            71,
+            157
+          ],
+          [
+            71,
+            181
+          ],
+          [
+            86,
+            186
+          ],
+          [
+            833,
+            186
+          ],
+          [
+            833,
+            157
+          ],
+          [
+            141,
+            157
+          ]
+        ],
+        "content": "(27) 46 chiuan by Hsueh Ying-ch'i 薛應旂 (b.1500,1535 cs.) from Wu-chin 武進, Kiangsu: 89-Index, 11, 201c.",
+        "native_label": "text"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          131,
+          186,
+          835,
+          261
+        ],
+        "polygon": [
+          [
+            131,
+            186
+          ],
+          [
+            131,
+            260
+          ],
+          [
+            834,
+            260
+          ],
+          [
+            834,
+            186
+          ]
+        ],
+        "content": "Covers the period from 1368 to 1521. Based on the Shih-lu as well as on miscellaneous private sources. Therefore valuable information not offered in the official records is mixed with unverifiable stories. Preface 1573, postface by Lu Kuang-chai 陸光宅, 1574. Imp. Cat. gives 47 chuan, but CCT, and all existing editions have 46. Prohibited. Original edition only.",
+        "native_label": "text"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          137,
+          263,
+          807,
+          281
+        ],
+        "polygon": [
+          [
+            137,
+            263
+          ],
+          [
+            137,
+            280
+          ],
+          [
+            802,
+            280
+          ],
+          [
+            807,
+            263
+          ]
+        ],
+        "content": "REF.: CCT, 4, 11a; Imp. Cat., 48, pp. 1062-63; TSS, p. 229b; ARJ, III, 157.",
+        "native_label": "text"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          71,
+          309,
+          457,
+          327
+        ],
+        "polygon": [
+          [
+            71,
+            309
+          ],
+          [
+            71,
+            315
+          ],
+          [
+            71,
+            327
+          ],
+          [
+            457,
+            327
+          ],
+          [
+            457,
+            309
+          ]
+        ],
+        "content": "## 1.3.2 Chao-tai tien-tse 昭代典則 (1600)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          137,
+          281,
+          605,
+          299
+        ],
+        "polygon": [
+          [
+            137,
+            281
+          ],
+          [
+            137,
+            298
+          ],
+          [
+            605,
+            298
+          ],
+          [
+            600,
+            281
+          ]
+        ],
+        "content": "cop.: LC (Cat., pp. 117-118); Naikaku (Cat., p. 72).",
+        "native_label": "text"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          71,
+          329,
+          834,
+          359
+        ],
+        "polygon": [
+          [
+            71,
+            329
+          ],
+          [
+            71,
+            348
+          ],
+          [
+            137,
+            358
+          ],
+          [
+            833,
+            358
+          ],
+          [
+            833,
+            329
+          ]
+        ],
+        "content": "(28) 28 chuan by Huang Kuang-sheng 黄光昇 (1529 cs., d. 1586) from Chin-chiang 晋江, Fukien. Retired from office 1567: 89-Index, II, 263c.*",
+        "native_label": "text"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          137,
+          357,
+          836,
+          418
+        ],
+        "polygon": [
+          [
+            137,
+            357
+          ],
+          [
+            137,
+            418
+          ],
+          [
+            835,
+            418
+          ],
+          [
+            835,
+            357
+          ]
+        ],
+        "content": "Covers the period from 1352 to 1572. The first part down to the end of Hung-wu is comparatively detailed, comprising 11 chiuan, the last period from Chia-ching 1 (1522) to 1568 has only 3 chiuan. Preface by Chu Shih-lu 祝世稼, 1600. Published 1600 by the Wan-chuan-lou 萬卷楼. Original edition only. Prohibited.",
+        "native_label": "text"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          138,
+          438,
+          548,
+          455
+        ],
+        "polygon": [
+          [
+            138,
+            438
+          ],
+          [
+            138,
+            455
+          ],
+          [
+            548,
+            455
+          ],
+          [
+            548,
+            438
+          ]
+        ],
+        "content": "cop.: LC (Cat., p. 118); Jimbun (Cat., p. 182).",
+        "native_label": "text"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          138,
+          419,
+          777,
+          438
+        ],
+        "polygon": [
+          [
+            138,
+            419
+          ],
+          [
+            138,
+            437
+          ],
+          [
+            776,
+            437
+          ],
+          [
+            776,
+            419
+          ]
+        ],
+        "content": "REF. : CCT,4,11a; Imp. Cat.,48,p.1063; TSS,p.229b; ARJ,IV,400.",
+        "native_label": "text"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          136,
+          456,
+          835,
+          546
+        ],
+        "polygon": [
+          [
+            136,
+            456
+          ],
+          [
+            136,
+            546
+          ],
+          [
+            834,
+            546
+          ],
+          [
+            834,
+            456
+          ]
+        ],
+        "content": "- The 89-Index has mixed up two different people by the same name. Our author had the fancy-name Ming-chü 明舉 and the biography in 國朝列卿紀110,5a refers to him. The other one had the fancy-name Hsi-lun 羲輪 and was from Wu-chiang 吳江, Kiangsu. He lived during the T'ien-chi-i-period and is mentioned in CCT,27,7b as the author of the P'o-weng-chi 破甕集. The biographical note in 明詩綜 67,16b refers to him. The two Huang Kuang-sheng are not mentioned in the古今同姓名大辭典.",
+        "native_label": "text"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          71,
+          557,
+          568,
+          575
+        ],
+        "polygon": [
+          [
+            71,
+            557
+          ],
+          [
+            71,
+            575
+          ],
+          [
+            567,
+            575
+          ],
+          [
+            567,
+            557
+          ]
+        ],
+        "content": "## 1.3.3 Huang Ming ta-cheng-chi 皇明大政記 (1602)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          73,
+          577,
+          832,
+          607
+        ],
+        "polygon": [
+          [
+            73,
+            577
+          ],
+          [
+            73,
+            601
+          ],
+          [
+            123,
+            606
+          ],
+          [
+            831,
+            606
+          ],
+          [
+            831,
+            577
+          ],
+          [
+            633,
+            577
+          ],
+          [
+            627,
+            577
+          ],
+          [
+            593,
+            577
+          ],
+          [
+            567,
+            577
+          ],
+          [
+            557,
+            577
+          ],
+          [
+            363,
+            577
+          ],
+          [
+            347,
+            577
+          ],
+          [
+            283,
+            577
+          ],
+          [
+            277,
+            577
+          ]
+        ],
+        "content": "(25) 25 chiuan by Lei Li 雷禮 (1505-1581,1532 cs.) from Feng-ch'eng 豐城, Kiangsi: 89-Index, II, 291a.",
+        "native_label": "text"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          136,
+          607,
+          834,
+          710
+        ],
+        "polygon": [
+          [
+            136,
+            607
+          ],
+          [
+            136,
+            710
+          ],
+          [
+            834,
+            710
+          ],
+          [
+            834,
+            607
+          ]
+        ],
+        "content": "Chronicle covering the period from 1352 to 1572. Actually only the first 20 chuan (up to the end of Cheng-te, 1521) were written by Lei Li himself, the last 5 chuan were added by the editor Chou Shih-t'ai 周時泰. Chuan 21-24 covering the Chiaching period are based on the Su-huang wai-shih 肅皇外史 (No.1.4.4), chuan 25 covering the Lung-ch'ing period on the Ming ta-cheng tsuan-yao 明大政纂要 (No. 1.3.5). Preface by Kuo Cheng-yu 郭正域. Original edition printed in 1602 at the博古堂 (i.e. Chou Shih-t'ai) only.",
+        "native_label": "text"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          137,
+          711,
+          506,
+          729
+        ],
+        "polygon": [
+          [
+            137,
+            711
+          ],
+          [
+            137,
+            729
+          ],
+          [
+            506,
+            729
+          ],
+          [
+            506,
+            711
+          ]
+        ],
+        "content": "REF.: CCT,4,11a; Imp.Cat.,48,p.1060.",
+        "native_label": "text"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          139,
+          729,
+          500,
+          747
+        ],
+        "polygon": [
+          [
+            139,
+            729
+          ],
+          [
+            139,
+            747
+          ],
+          [
+            500,
+            747
+          ],
+          [
+            500,
+            729
+          ]
+        ],
+        "content": "cop. : LC (Cat., pp. 116-117); Columbia.",
+        "native_label": "text"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          71,
+          758,
+          529,
+          776
+        ],
+        "polygon": [
+          [
+            71,
+            758
+          ],
+          [
+            71,
+            776
+          ],
+          [
+            529,
+            776
+          ],
+          [
+            529,
+            758
+          ]
+        ],
+        "content": "## 1.3.4 Ming-cheng t'ung-tsung 明政統宗 (1615)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          71,
+          778,
+          733,
+          794
+        ],
+        "polygon": [
+          [
+            71,
+            778
+          ],
+          [
+            71,
+            794
+          ],
+          [
+            733,
+            794
+          ],
+          [
+            733,
+            778
+          ]
+        ],
+        "content": "(29) 30 chuan by T'u Shan 涂山 (子壽) from Nan-ch'ang 南昌, Kiangsi.",
+        "native_label": "text"
+      },
+      {
+        "index": 19,
+        "label": "text",
+        "bbox_2d": [
+          137,
+          793,
+          833,
+          852
+        ],
+        "polygon": [
+          [
+            137,
+            793
+          ],
+          [
+            137,
+            852
+          ],
+          [
+            833,
+            852
+          ],
+          [
+            833,
+            793
+          ]
+        ],
+        "content": "Covers the period from 1352 to 1572. An appendix附卷, deals with the northern border regions (九邊論) and other special questions. Prefaces by Li Wei-chen 李維楨, Chang Shih-i 張師繹, 1615, and T'u Ch'iao-ch'ien 涂喬遷, 1615. Published by the Chü-k'uei-lou 聚奎樓. Original edition only. Prohibited.",
+        "native_label": "text"
+      },
+      {
+        "index": 20,
+        "label": "text",
+        "bbox_2d": [
+          136,
+          855,
+          314,
+          872
+        ],
+        "polygon": [
+          [
+            136,
+            855
+          ],
+          [
+            136,
+            871
+          ],
+          [
+            313,
+            871
+          ],
+          [
+            313,
+            855
+          ]
+        ],
+        "content": "REF.: CCT,4,11b.",
+        "native_label": "text"
+      },
+      {
+        "index": 21,
+        "label": "text",
+        "bbox_2d": [
+          137,
+          872,
+          546,
+          891
+        ],
+        "polygon": [
+          [
+            137,
+            872
+          ],
+          [
+            137,
+            890
+          ],
+          [
+            545,
+            890
+          ],
+          [
+            545,
+            872
+          ]
+        ],
+        "content": "cop.: LC (Cat., p. 120); Naikaku (Cat., p. 73).",
+        "native_label": "text"
+      }
+    ]
+  ]
+]
