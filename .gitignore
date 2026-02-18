@@ -35,8 +35,7 @@ node_modules/
 *.toc
 *.synctex.gz
 
-# PDFs (often generated)
-*.pdf
+
 
 /.quarto/
 **/*.quarto_ipynb
