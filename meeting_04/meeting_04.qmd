@@ -19,4 +19,32 @@ author: "Kwok-leong Tang"
 
 - 
 
-# 
+# The importance of building “Big Tables”
+
+Kwok-leong met with some of you about your research projects, and I noticed some confusion about how to start a new research topic. From Kwok-leong’s perspective, building “big tables” is always the first step.
+
+These big tables include:
+
+- primary sources
+- related scholarship
+- other relevant materials
+
+# Introduction of Today’s Task
+
+There are two PDF files in the `pdf/` folder. They are extracted pages from Wolfgang Frank’s famous book *Introduction of Ming sources* (see a newer edition on WorldCat: https://search.worldcat.org/title/779242963). **For this class, we are using an edition published in the 1960s.**
+
+- One file is the abbreviations list.
+- One file contains five pages from the first chapter.
+
+Your tasks:
+
+1. Extract the abbreviations and their meanings from the list into a table.
+2. Turn the abbreviations in the content into clickable links.
+
+# Google NotebookLM
+
+Landing page: https://notebooklm.google/
+
+# OCR tool for Apple.
+
+# OCR tool for LM Studio/Ollama.
