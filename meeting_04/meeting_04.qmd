@@ -1,0 +1,22 @@
+---
+title: "Meeting 04"
+format:
+    html:
+        toc: true
+        toc-depth: 3
+        code-fold: true
+        link-external-newwindow: true
+        code-overflow: wrap
+        code-copy: true
+# pdf output disabled
+
+date: "2026-02-18"
+date-modified: "2026-02-18"
+author: "Kwok-leong Tang"
+---
+
+# Today's Schedule
+
+- 
+
+# 
