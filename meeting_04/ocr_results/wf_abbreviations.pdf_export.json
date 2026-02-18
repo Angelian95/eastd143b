@@ -1,0 +1,6258 @@
+[
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          158,
+          703,
+          181
+        ],
+        "polygon": [
+          [
+            237,
+            158
+          ],
+          [
+            237,
+            181
+          ],
+          [
+            702,
+            181
+          ],
+          [
+            702,
+            158
+          ]
+        ],
+        "content": "# LIST OF ABBREVIATIONS",
+        "native_label": "doc_title"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          404,
+          197,
+          538,
+          215
+        ],
+        "polygon": [
+          [
+            404,
+            197
+          ],
+          [
+            404,
+            214
+          ],
+          [
+            537,
+            214
+          ],
+          [
+            537,
+            197
+          ]
+        ],
+        "content": "## GENERAL",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          93,
+          219,
+          313,
+          237
+        ],
+        "polygon": [
+          [
+            93,
+            219
+          ],
+          [
+            93,
+            237
+          ],
+          [
+            183,
+            237
+          ],
+          [
+            313,
+            232
+          ],
+          [
+            313,
+            219
+          ]
+        ],
+        "content": "cj. chü-jen 舉人.",
+        "native_label": "text"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          93,
+          238,
+          431,
+          255
+        ],
+        "polygon": [
+          [
+            93,
+            238
+          ],
+          [
+            93,
+            255
+          ],
+          [
+            431,
+            255
+          ],
+          [
+            431,
+            238
+          ]
+        ],
+        "content": "COP. Copy of the book available.",
+        "native_label": "text"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          257,
+          327,
+          274
+        ],
+        "polygon": [
+          [
+            94,
+            257
+          ],
+          [
+            94,
+            274
+          ],
+          [
+            327,
+            274
+          ],
+          [
+            327,
+            257
+          ]
+        ],
+        "content": "cs. chin-shih 進士.",
+        "native_label": "text"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          93,
+          276,
+          356,
+          293
+        ],
+        "polygon": [
+          [
+            93,
+            276
+          ],
+          [
+            93,
+            292
+          ],
+          [
+            355,
+            292
+          ],
+          [
+            355,
+            276
+          ]
+        ],
+        "content": "Ed. Edition or Edited.",
+        "native_label": "text"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          93,
+          295,
+          343,
+          312
+        ],
+        "polygon": [
+          [
+            93,
+            295
+          ],
+          [
+            93,
+            311
+          ],
+          [
+            342,
+            311
+          ],
+          [
+            342,
+            295
+          ]
+        ],
+        "content": "ks. kung-sheng 貢生.",
+        "native_label": "text"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          93,
+          314,
+          307,
+          331
+        ],
+        "polygon": [
+          [
+            93,
+            314
+          ],
+          [
+            93,
+            330
+          ],
+          [
+            307,
+            330
+          ],
+          [
+            307,
+            314
+          ]
+        ],
+        "content": "Ms. Manuscript.",
+        "native_label": "text"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          92,
+          332,
+          847,
+          366
+        ],
+        "polygon": [
+          [
+            92,
+            332
+          ],
+          [
+            92,
+            365
+          ],
+          [
+            847,
+            365
+          ],
+          [
+            847,
+            332
+          ]
+        ],
+        "content": "Prohibited The work under discussion was listed for whole or partial suppression in the Index Expurgatorius during the Ch'ien-lung period or earlier.",
+        "native_label": "text"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          368,
+          295,
+          385
+        ],
+        "polygon": [
+          [
+            94,
+            368
+          ],
+          [
+            94,
+            384
+          ],
+          [
+            295,
+            384
+          ],
+          [
+            295,
+            368
+          ]
+        ],
+        "content": "REF. Reference.",
+        "native_label": "text"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          344,
+          393,
+          599,
+          410
+        ],
+        "polygon": [
+          [
+            344,
+            393
+          ],
+          [
+            344,
+            410
+          ],
+          [
+            599,
+            410
+          ],
+          [
+            599,
+            393
+          ]
+        ],
+        "content": "## TITLES OF BOOKS",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          93,
+          416,
+          810,
+          434
+        ],
+        "polygon": [
+          [
+            93,
+            416
+          ],
+          [
+            93,
+            434
+          ],
+          [
+            810,
+            434
+          ],
+          [
+            810,
+            416
+          ]
+        ],
+        "content": "ARJ Asia rekishi jiten アシア歴史事典, 10 vols., Heibonsha, Tōkyō, 1959-62.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          435,
+          847,
+          467
+        ],
+        "polygon": [
+          [
+            94,
+            435
+          ],
+          [
+            94,
+            467
+          ],
+          [
+            846,
+            467
+          ],
+          [
+            846,
+            435
+          ]
+        ],
+        "content": "Chu Chu Shih-chia 朱士嘉, Chung-kuo ti-fang-chih tsung-lu 中國地方志縁錄, Commercial Press, Shanghai, 1958.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          469,
+          847,
+          502
+        ],
+        "polygon": [
+          [
+            94,
+            469
+          ],
+          [
+            94,
+            501
+          ],
+          [
+            847,
+            501
+          ],
+          [
+            847,
+            469
+          ]
+        ],
+        "content": "Chu Hsi-tsu Chu Hsi-tsu 朱希昶, Ming-chi shih-liao t'i-pa 明季史料题跋, Chung-hua shu-chü, Peking, 1961.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          503,
+          848,
+          535
+        ],
+        "polygon": [
+          [
+            94,
+            503
+          ],
+          [
+            94,
+            535
+          ],
+          [
+            847,
+            535
+          ],
+          [
+            847,
+            503
+          ]
+        ],
+        "content": "CCT Ch'ien-ch'ing-t'ang shu-mu 千頃堂書目, by Huang Yü-chi 黄虞稷, reduced size reprint of the 適園叢書 edition.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          538,
+          846,
+          571
+        ],
+        "polygon": [
+          [
+            94,
+            538
+          ],
+          [
+            94,
+            570
+          ],
+          [
+            845,
+            570
+          ],
+          [
+            845,
+            538
+          ]
+        ],
+        "content": "DKWJ Dai Kanwa jiten 大漢和辭典, by Morohashi Tetsuji 諸橋轍次, 13 vols., Taishukan shoten, Tokyo, 1960.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          572,
+          847,
+          604
+        ],
+        "polygon": [
+          [
+            94,
+            572
+          ],
+          [
+            94,
+            604
+          ],
+          [
+            846,
+            604
+          ],
+          [
+            846,
+            572
+          ]
+        ],
+        "content": "Eminent Chinese Eminent Chinese of the Ch'ing Dynasty, ed. by A. W. Hummel, 2 vols., Baltimore, 1940.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          606,
+          847,
+          624
+        ],
+        "polygon": [
+          [
+            94,
+            606
+          ],
+          [
+            94,
+            624
+          ],
+          [
+            847,
+            624
+          ],
+          [
+            847,
+            606
+          ]
+        ],
+        "content": "Giles, B.D. H. A. Giles, A Chinese Biographical Dictionary, London and Shanghai, 1898.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          625,
+          847,
+          658
+        ],
+        "polygon": [
+          [
+            94,
+            625
+          ],
+          [
+            94,
+            657
+          ],
+          [
+            847,
+            657
+          ],
+          [
+            847,
+            625
+          ]
+        ],
+        "content": "Goodrich L. C. Goodrich, The Literary Inquisition of Ch'ien-Lung, American Council of Learned Societies, Baltimore, 1935.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 19,
+        "label": "text",
+        "bbox_2d": [
+          95,
+          659,
+          846,
+          693
+        ],
+        "polygon": [
+          [
+            95,
+            659
+          ],
+          [
+            95,
+            692
+          ],
+          [
+            845,
+            692
+          ],
+          [
+            845,
+            659
+          ]
+        ],
+        "content": "Hervouet Y. Hervouet, Catalogue des Monographies Locales Chinoises dans les Bibliothèques d'Europe, Mouton & Co., Paris and La Haye, 1957.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 20,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          693,
+          846,
+          727
+        ],
+        "polygon": [
+          [
+            94,
+            693
+          ],
+          [
+            94,
+            726
+          ],
+          [
+            845,
+            726
+          ],
+          [
+            845,
+            693
+          ]
+        ],
+        "content": "Hsieh Hsieh Kuo-chen 謝國楨, Wan Ming shih-chi k'ao 晚明史籍考, 20 chüan, Kuo-chen Peiping, 1933.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 21,
+        "label": "text",
+        "bbox_2d": [
+          95,
+          728,
+          847,
+          776
+        ],
+        "polygon": [
+          [
+            95,
+            728
+          ],
+          [
+            95,
+            776
+          ],
+          [
+            847,
+            771
+          ],
+          [
+            847,
+            728
+          ]
+        ],
+        "content": "Hsieh Hsieh Kuo-chen, Ming Ch'ing pi-chi t'an-ts'ung 明淸筆記談議, Chung-hua Kuo-chen shu-chü, Shanghai, 1962.\n\n(2)",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 22,
+        "label": "text",
+        "bbox_2d": [
+          96,
+          778,
+          846,
+          824
+        ],
+        "polygon": [
+          [
+            96,
+            778
+          ],
+          [
+            96,
+            824
+          ],
+          [
+            275,
+            824
+          ],
+          [
+            331,
+            819
+          ],
+          [
+            361,
+            819
+          ],
+          [
+            396,
+            819
+          ],
+          [
+            845,
+            819
+          ],
+          [
+            845,
+            778
+          ]
+        ],
+        "content": "Hsieh Hsieh Kuo-chen, Ch'ing k'ai-kuo shih-liao k'ao 清開國史料考,7 chüan, Peiping, Kuo-chen 1931. (3)",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 23,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          827,
+          846,
+          860
+        ],
+        "polygon": [
+          [
+            94,
+            832
+          ],
+          [
+            94,
+            860
+          ],
+          [
+            845,
+            860
+          ],
+          [
+            845,
+            827
+          ]
+        ],
+        "content": "Imp. Cat. Imperial Catalogue, Ssu-k'u ch'uan-shu tsung-mu t'i-yao 四庫全書總目提要, ed. in 4 vols., Commercial Press, Shanghai, 1933.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 24,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          862,
+          820,
+          881
+        ],
+        "polygon": [
+          [
+            94,
+            862
+          ],
+          [
+            94,
+            881
+          ],
+          [
+            819,
+            881
+          ],
+          [
+            819,
+            862
+          ]
+        ],
+        "content": "'Juan Yuan' Wolfgang Franke, 'Juan Yuan (1764-1849)' , MS, IX, 1944, pp. 53-80.",
+        "native_label": "reference_content"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          104,
+          981,
+          151
+        ],
+        "polygon": [
+          [
+            237,
+            141
+          ],
+          [
+            242,
+            151
+          ],
+          [
+            980,
+            151
+          ],
+          [
+            980,
+            104
+          ],
+          [
+            242,
+            104
+          ]
+        ],
+        "content": "KSCCC Kuo-shih ching-chi-chih 国史經籍志, by Chiao Hung 焦竑, ed. 明史藝文志，補編，附編，2 vols., Commercial Press, Shanghai, 1959, vol. 2, pp. 783-1193.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          154,
+          980,
+          187
+        ],
+        "polygon": [
+          [
+            237,
+            154
+          ],
+          [
+            237,
+            186
+          ],
+          [
+            980,
+            186
+          ],
+          [
+            980,
+            154
+          ]
+        ],
+        "content": "Li Chin-hua Li Chin-hua 李晋華, Ming-tai ch'ih-chuan shu-k'ao 明代勅撰書考, Harvard-Yenching Institute, Peiping, 1932.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          190,
+          980,
+          237
+        ],
+        "polygon": [
+          [
+            236,
+            190
+          ],
+          [
+            241,
+            237
+          ],
+          [
+            979,
+            237
+          ],
+          [
+            979,
+            190
+          ]
+        ],
+        "content": "Li Chin-hua Li Chin-hua, A History of the Compilation of the Ming Dynasty History, Ming-shih tsuan-hsiu k'ao 明史纂修考, YCHP, Monograph 3, Harvard-Yenching Institute, Peiping, 1933.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          241,
+          556,
+          257
+        ],
+        "polygon": [
+          [
+            238,
+            241
+          ],
+          [
+            238,
+            257
+          ],
+          [
+            555,
+            257
+          ],
+          [
+            555,
+            241
+          ]
+        ],
+        "content": "Ming-shih 明史，ed. 五洲同文書局.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          260,
+          978,
+          293
+        ],
+        "polygon": [
+          [
+            239,
+            260
+          ],
+          [
+            239,
+            292
+          ],
+          [
+            978,
+            292
+          ],
+          [
+            978,
+            260
+          ]
+        ],
+        "content": "MSL I Wolfgang Franke, 'Zur Kompilation und Überlieferung der Ming Shih-lu', Sinologische Arbeiten, I, Peking, 1943, pp. 1-46.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          295,
+          980,
+          328
+        ],
+        "polygon": [
+          [
+            237,
+            300
+          ],
+          [
+            242,
+            328
+          ],
+          [
+            979,
+            328
+          ],
+          [
+            979,
+            295
+          ],
+          [
+            242,
+            295
+          ]
+        ],
+        "content": "MSL II Wolfgang Franke, 'Weitere Beiträge zur Kompilation und Überlieferung der Ming Shih-lu', Sinologische Arbeiten, II, Peking, 1944, pp. 1-29.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          330,
+          978,
+          363
+        ],
+        "polygon": [
+          [
+            236,
+            330
+          ],
+          [
+            241,
+            362
+          ],
+          [
+            978,
+            362
+          ],
+          [
+            978,
+            330
+          ]
+        ],
+        "content": "Or. Add. Orientalia Added. Annual reports of the Library of Congress, Washington, D.C.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          366,
+          981,
+          413
+        ],
+        "polygon": [
+          [
+            237,
+            366
+          ],
+          [
+            237,
+            413
+          ],
+          [
+            981,
+            413
+          ],
+          [
+            981,
+            366
+          ]
+        ],
+        "content": "Preliminary Notes Wolfgang Franke, Preliminary Notes on the Important Chinese Literary Sources for the History of the Ming Dynasty (1368-1644), Studia Serica Monographs, Series A, No. 2, Chengtu, 1948.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          417,
+          982,
+          478
+        ],
+        "polygon": [
+          [
+            235,
+            417
+          ],
+          [
+            235,
+            477
+          ],
+          [
+            501,
+            477
+          ],
+          [
+            981,
+            468
+          ],
+          [
+            981,
+            417
+          ]
+        ],
+        "content": "Teng- Ssu-yü Teng and Knight Biggerstaff, An Annotated Bibliography of Selected Biggerstaff, Chinese Reference Works, revised edition, Harvard University Press, Cambridge, Mass., 1950. Reference Works",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          482,
+          979,
+          515
+        ],
+        "polygon": [
+          [
+            235,
+            487
+          ],
+          [
+            235,
+            514
+          ],
+          [
+            978,
+            514
+          ],
+          [
+            974,
+            482
+          ],
+          [
+            964,
+            482
+          ]
+        ],
+        "content": "Teng Teng Yen-lin 鄧衍林, Chung-kuo pien-chiang t'u-chi lu 中國邊疆圖籍錄\n\nYen-lin Commercial Press, Shanghai, 1958.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          517,
+          967,
+          535
+        ],
+        "polygon": [
+          [
+            242,
+            517
+          ],
+          [
+            242,
+            535
+          ],
+          [
+            967,
+            535
+          ],
+          [
+            967,
+            517
+          ]
+        ],
+        "content": "TRD Toyo rekishi daijiten 東洋歷史大辭典, 9 vols., Heibonsha, Tokyo, 1937-9.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          537,
+          853,
+          555
+        ],
+        "polygon": [
+          [
+            237,
+            541
+          ],
+          [
+            237,
+            555
+          ],
+          [
+            852,
+            555
+          ],
+          [
+            852,
+            537
+          ],
+          [
+            728,
+            537
+          ],
+          [
+            670,
+            542
+          ],
+          [
+            567,
+            537
+          ],
+          [
+            552,
+            537
+          ],
+          [
+            525,
+            542
+          ],
+          [
+            502,
+            537
+          ],
+          [
+            365,
+            542
+          ],
+          [
+            357,
+            537
+          ],
+          [
+            312,
+            537
+          ],
+          [
+            298,
+            537
+          ]
+        ],
+        "content": "TSS Toyo shiryo shusei 東洋史料集成, Heibonsha, Tokyo, 1956.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          557,
+          978,
+          590
+        ],
+        "polygon": [
+          [
+            978,
+            562
+          ],
+          [
+            963,
+            557
+          ],
+          [
+            933,
+            557
+          ],
+          [
+            914,
+            557
+          ],
+          [
+            908,
+            557
+          ],
+          [
+            273,
+            562
+          ],
+          [
+            238,
+            571
+          ],
+          [
+            238,
+            590
+          ],
+          [
+            978,
+            590
+          ]
+        ],
+        "content": "sung-lu Chung-kuo ts'ung-shu tsung-lu 中國叢書綜錄, ed. by Shang-hai t'u-shu-kuan 上海圖書館, Vol. I, Chung-hua shu-chü, Shanghai, 1959.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          593,
+          978,
+          640
+        ],
+        "polygon": [
+          [
+            236,
+            593
+          ],
+          [
+            241,
+            639
+          ],
+          [
+            978,
+            639
+          ],
+          [
+            978,
+            593
+          ]
+        ],
+        "content": "Wang Yung Wang Yung 王庸, Chung-kuo ti-li t'u-chi ts'ung-k'ao 中國地理圖籍叢考, ed. by Kuo-li Pei-p'ing t'u-shu-kuan 國立北平圖書館, Commercial Press, Shanghai, 1947.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          644,
+          941,
+          675
+        ],
+        "polygon": [
+          [
+            236,
+            644
+          ],
+          [
+            236,
+            675
+          ],
+          [
+            911,
+            675
+          ],
+          [
+            940,
+            665
+          ],
+          [
+            940,
+            644
+          ]
+        ],
+        "content": "Wylie, Alexander Wylie, Notes on Chinese Literature, Reprint, Shanghai, 1922. Notes",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          679,
+          978,
+          712
+        ],
+        "polygon": [
+          [
+            236,
+            679
+          ],
+          [
+            241,
+            712
+          ],
+          [
+            977,
+            712
+          ],
+          [
+            977,
+            679
+          ]
+        ],
+        "content": "Yamane Yamane Yukio 山根幸夫, Nihon genson Mindai chihōshi mokuroku 日本現存明代地方志目錄, Tōyō bunko, Tōkyō, 1962.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          715,
+          978,
+          747
+        ],
+        "polygon": [
+          [
+            238,
+            715
+          ],
+          [
+            244,
+            747
+          ],
+          [
+            978,
+            747
+          ],
+          [
+            978,
+            715
+          ]
+        ],
+        "content": "Yamane- Index Yamane Yukio, Nihon genson Mindai chihōshi denki sakuin-kō 日本現存明代地方志傳記索引稿, Tōyō bunko, Tōkyō, 1964.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          750,
+          977,
+          797
+        ],
+        "polygon": [
+          [
+            235,
+            750
+          ],
+          [
+            235,
+            792
+          ],
+          [
+            977,
+            797
+          ],
+          [
+            977,
+            750
+          ]
+        ],
+        "content": "33-Index Index to Thirty-three Collections of Ch'ing Dynasty Biographies, San-shih-san chung Ch'ing-tai chuan-chi tsung-ho yin-te 三十三種清代傳記綜合引得, Harvard-Yenching Institute. Peiping, 1932: Reprint, Tōkyō, 1960.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          234,
+          800,
+          977,
+          862
+        ],
+        "polygon": [
+          [
+            234,
+            800
+          ],
+          [
+            234,
+            861
+          ],
+          [
+            977,
+            861
+          ],
+          [
+            977,
+            800
+          ]
+        ],
+        "content": "89-Index Combined Indices to Eighty-Nine Collections of Ming Dynasty Biographies, Pa-shih-chiu chung Ming-tai chuan-chi tsung-ho yin-te 八十九種明代傳記綜合引得, 3 vols., Harvard-Yenching Institute, Peiping, 1935; reprinted, Shanghai, 1959 and Taipei, 1966.",
+        "native_label": "reference_content"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          377,
+          104,
+          565,
+          122
+        ],
+        "polygon": [
+          [
+            377,
+            104
+          ],
+          [
+            377,
+            122
+          ],
+          [
+            564,
+            122
+          ],
+          [
+            564,
+            104
+          ]
+        ],
+        "content": "## PERIODICALS",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          98,
+          127,
+          607,
+          145
+        ],
+        "polygon": [
+          [
+            98,
+            127
+          ],
+          [
+            98,
+            144
+          ],
+          [
+            606,
+            144
+          ],
+          [
+            606,
+            127
+          ]
+        ],
+        "content": "BEFEO Bulletin de l'École Française d'Extrême Orient.",
+        "native_label": "text"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          146,
+          462,
+          163
+        ],
+        "polygon": [
+          [
+            99,
+            146
+          ],
+          [
+            99,
+            163
+          ],
+          [
+            461,
+            163
+          ],
+          [
+            461,
+            146
+          ]
+        ],
+        "content": "CLHP Chin-ling hsüeh-pao 金陵學報.",
+        "native_label": "text"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          164,
+          844,
+          196
+        ],
+        "polygon": [
+          [
+            99,
+            164
+          ],
+          [
+            99,
+            196
+          ],
+          [
+            844,
+            196
+          ],
+          [
+            844,
+            164
+          ]
+        ],
+        "content": "CYYY Chung yang yen-chiu-yiuan li-shih yi-yen yen-chiu-so chi-k'an中央研究院歷史語言研究所集刊.",
+        "native_label": "text"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          196,
+          397,
+          213
+        ],
+        "polygon": [
+          [
+            99,
+            196
+          ],
+          [
+            99,
+            212
+          ],
+          [
+            396,
+            212
+          ],
+          [
+            396,
+            196
+          ]
+        ],
+        "content": "FEQ Far Eastern Quarterly.",
+        "native_label": "text"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          214,
+          503,
+          231
+        ],
+        "polygon": [
+          [
+            99,
+            214
+          ],
+          [
+            99,
+            230
+          ],
+          [
+            503,
+            230
+          ],
+          [
+            503,
+            214
+          ]
+        ],
+        "content": "HJAS Harvard Journal of Asiatic Studies.",
+        "native_label": "text"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          98,
+          233,
+          417,
+          250
+        ],
+        "polygon": [
+          [
+            98,
+            233
+          ],
+          [
+            98,
+            249
+          ],
+          [
+            416,
+            249
+          ],
+          [
+            416,
+            233
+          ]
+        ],
+        "content": "JAS Journal of Asian Studies.",
+        "native_label": "text"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          98,
+          251,
+          458,
+          267
+        ],
+        "polygon": [
+          [
+            98,
+            251
+          ],
+          [
+            98,
+            267
+          ],
+          [
+            458,
+            267
+          ],
+          [
+            458,
+            251
+          ]
+        ],
+        "content": "KHCK Kuo-hstieh chi-k'an 國學季刊.",
+        "native_label": "text"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          269,
+          460,
+          286
+        ],
+        "polygon": [
+          [
+            99,
+            269
+          ],
+          [
+            99,
+            285
+          ],
+          [
+            460,
+            285
+          ],
+          [
+            460,
+            269
+          ]
+        ],
+        "content": "LNHP Ling-nan hsüeh-pao 嶺南學報.",
+        "native_label": "text"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          100,
+          288,
+          367,
+          304
+        ],
+        "polygon": [
+          [
+            100,
+            288
+          ],
+          [
+            100,
+            304
+          ],
+          [
+            366,
+            304
+          ],
+          [
+            366,
+            288
+          ]
+        ],
+        "content": "MS Monumenta Serica.",
+        "native_label": "text"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          306,
+          350,
+          322
+        ],
+        "polygon": [
+          [
+            99,
+            306
+          ],
+          [
+            99,
+            321
+          ],
+          [
+            349,
+            321
+          ],
+          [
+            349,
+            306
+          ]
+        ],
+        "content": "OE Oriens Extremus.",
+        "native_label": "text"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          323,
+          495,
+          341
+        ],
+        "polygon": [
+          [
+            99,
+            323
+          ],
+          [
+            99,
+            340
+          ],
+          [
+            494,
+            340
+          ],
+          [
+            494,
+            323
+          ]
+        ],
+        "content": "RBS Revue Bibliographique de Sinologie.",
+        "native_label": "text"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          342,
+          461,
+          359
+        ],
+        "polygon": [
+          [
+            99,
+            342
+          ],
+          [
+            99,
+            359
+          ],
+          [
+            461,
+            359
+          ],
+          [
+            461,
+            342
+          ]
+        ],
+        "content": "SHCK Shih-hsüeh chi-k'an 史學集刋.",
+        "native_label": "text"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          360,
+          463,
+          377
+        ],
+        "polygon": [
+          [
+            99,
+            360
+          ],
+          [
+            99,
+            377
+          ],
+          [
+            462,
+            377
+          ],
+          [
+            462,
+            360
+          ]
+        ],
+        "content": "SHNP Shih-hsiieh nien-pao 史學年報.",
+        "native_label": "text"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          378,
+          422,
+          395
+        ],
+        "polygon": [
+          [
+            99,
+            378
+          ],
+          [
+            99,
+            395
+          ],
+          [
+            422,
+            395
+          ],
+          [
+            422,
+            378
+          ]
+        ],
+        "content": "SZ Shigaku zasshi 史學雜誌.",
+        "native_label": "text"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          397,
+          403,
+          414
+        ],
+        "polygon": [
+          [
+            99,
+            397
+          ],
+          [
+            99,
+            413
+          ],
+          [
+            403,
+            413
+          ],
+          [
+            403,
+            397
+          ]
+        ],
+        "content": "THGH Tōhō gakuhō 東方學報.",
+        "native_label": "text"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          415,
+          795,
+          433
+        ],
+        "polygon": [
+          [
+            99,
+            415
+          ],
+          [
+            99,
+            433
+          ],
+          [
+            794,
+            433
+          ],
+          [
+            794,
+            415
+          ]
+        ],
+        "content": "TSCK T'u-shu chi-k'an 图書季刋, Quarterly Bulletin of Chinese Bibliography.",
+        "native_label": "text"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          94,
+          434,
+          310,
+          450
+        ],
+        "polygon": [
+          [
+            94,
+            434
+          ],
+          [
+            94,
+            450
+          ],
+          [
+            310,
+            450
+          ],
+          [
+            310,
+            434
+          ]
+        ],
+        "content": "TP T'oung Pao.",
+        "native_label": "text"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          452,
+          405,
+          469
+        ],
+        "polygon": [
+          [
+            99,
+            452
+          ],
+          [
+            99,
+            469
+          ],
+          [
+            404,
+            469
+          ],
+          [
+            404,
+            452
+          ],
+          [
+            270,
+            452
+          ],
+          [
+            264,
+            452
+          ],
+          [
+            250,
+            452
+          ],
+          [
+            244,
+            452
+          ],
+          [
+            240,
+            452
+          ],
+          [
+            229,
+            452
+          ]
+        ],
+        "content": "TYGH Tōyō gakuhō 東洋學報.",
+        "native_label": "text"
+      },
+      {
+        "index": 19,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          470,
+          445,
+          487
+        ],
+        "polygon": [
+          [
+            99,
+            470
+          ],
+          [
+            99,
+            487
+          ],
+          [
+            444,
+            487
+          ],
+          [
+            444,
+            470
+          ]
+        ],
+        "content": "TYSK Tōyōshi kenkyu 東洋史研究.",
+        "native_label": "text"
+      },
+      {
+        "index": 20,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          489,
+          788,
+          507
+        ],
+        "polygon": [
+          [
+            99,
+            489
+          ],
+          [
+            99,
+            507
+          ],
+          [
+            129,
+            507
+          ],
+          [
+            787,
+            507
+          ],
+          [
+            787,
+            489
+          ]
+        ],
+        "content": "YCHP Yen-ching hsüeh-pao 燕京學報, Yen-ching Journal of Chinese Studies.",
+        "native_label": "text"
+      },
+      {
+        "index": 21,
+        "label": "text",
+        "bbox_2d": [
+          200,
+          529,
+          738,
+          547
+        ],
+        "polygon": [
+          [
+            200,
+            529
+          ],
+          [
+            200,
+            546
+          ],
+          [
+            737,
+            546
+          ],
+          [
+            737,
+            529
+          ]
+        ],
+        "content": "## LIBRARIES AND LIBRARY CATALOGUES",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 22,
+        "label": "text",
+        "bbox_2d": [
+          97,
+          552,
+          842,
+          585
+        ],
+        "polygon": [
+          [
+            97,
+            552
+          ],
+          [
+            97,
+            584
+          ],
+          [
+            842,
+            584
+          ],
+          [
+            842,
+            552
+          ]
+        ],
+        "content": "Ac. Sin. Academia Sinica, Chung-yang yen-chiu-yuan, li-shih yu-yen yen-chiu-so Taiwan 中央研究院歷史語言研究所, Nankang, Taipei, Taiwan.",
+        "native_label": "text"
+      },
+      {
+        "index": 23,
+        "label": "text",
+        "bbox_2d": [
+          97,
+          586,
+          770,
+          604
+        ],
+        "polygon": [
+          [
+            97,
+            586
+          ],
+          [
+            102,
+            603
+          ],
+          [
+            770,
+            603
+          ],
+          [
+            770,
+            586
+          ]
+        ],
+        "content": "Berkeley East Asiatic Library, University of California, Berkeley, California.",
+        "native_label": "text"
+      },
+      {
+        "index": 24,
+        "label": "text",
+        "bbox_2d": [
+          99,
+          604,
+          730,
+          622
+        ],
+        "polygon": [
+          [
+            99,
+            604
+          ],
+          [
+            99,
+            618
+          ],
+          [
+            109,
+            622
+          ],
+          [
+            730,
+            622
+          ],
+          [
+            730,
+            604
+          ]
+        ],
+        "content": "Chicago Far Eastern Library, University of Chicago, Chicago, Illinois.",
+        "native_label": "text"
+      },
+      {
+        "index": 25,
+        "label": "text",
+        "bbox_2d": [
+          98,
+          623,
+          842,
+          654
+        ],
+        "polygon": [
+          [
+            98,
+            623
+          ],
+          [
+            98,
+            654
+          ],
+          [
+            842,
+            654
+          ],
+          [
+            842,
+            623
+          ]
+        ],
+        "content": "Columbia Chinese Collection, Columbia University Library, Columbia University, New York.",
+        "native_label": "text"
+      },
+      {
+        "index": 26,
+        "label": "text",
+        "bbox_2d": [
+          97,
+          656,
+          841,
+          689
+        ],
+        "polygon": [
+          [
+            97,
+            656
+          ],
+          [
+            102,
+            689
+          ],
+          [
+            840,
+            689
+          ],
+          [
+            840,
+            656
+          ]
+        ],
+        "content": "Hamburg Seminar für Sprache und Kultur Chinas, Universität Hamburg, Hamburg 13, Germany.",
+        "native_label": "text"
+      },
+      {
+        "index": 27,
+        "label": "text",
+        "bbox_2d": [
+          97,
+          690,
+          843,
+          723
+        ],
+        "polygon": [
+          [
+            97,
+            690
+          ],
+          [
+            102,
+            723
+          ],
+          [
+            176,
+            723
+          ],
+          [
+            201,
+            723
+          ],
+          [
+            842,
+            723
+          ],
+          [
+            842,
+            690
+          ]
+        ],
+        "content": "Harvard Chinese-Japanese Library of the Harvard-Yenching Institute, Harvard University, Cambridge, Massachusetts.",
+        "native_label": "text"
+      },
+      {
+        "index": 28,
+        "label": "text",
+        "bbox_2d": [
+          97,
+          724,
+          447,
+          742
+        ],
+        "polygon": [
+          [
+            97,
+            724
+          ],
+          [
+            97,
+            741
+          ],
+          [
+            446,
+            741
+          ],
+          [
+            446,
+            724
+          ]
+        ],
+        "content": "Hōsa Hōsa bunko, Nagoya, Japan.",
+        "native_label": "text"
+      },
+      {
+        "index": 29,
+        "label": "text",
+        "bbox_2d": [
+          113,
+          742,
+          731,
+          760
+        ],
+        "polygon": [
+          [
+            113,
+            742
+          ],
+          [
+            113,
+            760
+          ],
+          [
+            730,
+            760
+          ],
+          [
+            730,
+            742
+          ]
+        ],
+        "content": "Cat. Hōsa bunko kanseki mokuroku 蓬左文庫漢籍目錄, Nagoya, 1955.",
+        "native_label": "text"
+      },
+      {
+        "index": 30,
+        "label": "text",
+        "bbox_2d": [
+          96,
+          761,
+          636,
+          779
+        ],
+        "polygon": [
+          [
+            96,
+            766
+          ],
+          [
+            102,
+            779
+          ],
+          [
+            636,
+            779
+          ],
+          [
+            636,
+            761
+          ],
+          [
+            102,
+            761
+          ]
+        ],
+        "content": "Jimbun Jimbun-kagaku kenkyujo, Kyoto University, Kyoto.",
+        "native_label": "text"
+      },
+      {
+        "index": 31,
+        "label": "text",
+        "bbox_2d": [
+          105,
+          780,
+          841,
+          812
+        ],
+        "polygon": [
+          [
+            105,
+            780
+          ],
+          [
+            105,
+            812
+          ],
+          [
+            840,
+            812
+          ],
+          [
+            840,
+            780
+          ]
+        ],
+        "content": "Cat. Kyoto daigaku jimbun-kagaku kenkyujo kanseki bunrui mokuroku 京都大學人文科學研究所漢籍分類目錄, 2 vols., Kyoto, 1963-5.",
+        "native_label": "text"
+      },
+      {
+        "index": 32,
+        "label": "text",
+        "bbox_2d": [
+          96,
+          813,
+          591,
+          831
+        ],
+        "polygon": [
+          [
+            96,
+            813
+          ],
+          [
+            96,
+            831
+          ],
+          [
+            591,
+            831
+          ],
+          [
+            591,
+            813
+          ]
+        ],
+        "content": "KPL Former Kiangsu Provincial Library, Nanking.",
+        "native_label": "text"
+      },
+      {
+        "index": 33,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          832,
+          842,
+          866
+        ],
+        "polygon": [
+          [
+            111,
+            832
+          ],
+          [
+            111,
+            866
+          ],
+          [
+            842,
+            866
+          ],
+          [
+            837,
+            832
+          ],
+          [
+            271,
+            832
+          ],
+          [
+            265,
+            832
+          ]
+        ],
+        "content": "Cat. Chiang-su sheng-li kuo-hsieh t'u-shu-kuan tsung-mu 江蘇省立國學圖書館總目 27 ts'e, Nanking, 1933-5.",
+        "native_label": "text"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          240,
+          105,
+          854,
+          149
+        ],
+        "polygon": [
+          [
+            240,
+            105
+          ],
+          [
+            246,
+            144
+          ],
+          [
+            355,
+            149
+          ],
+          [
+            854,
+            149
+          ],
+          [
+            854,
+            105
+          ]
+        ],
+        "content": "Kyoto Library of the Faculty of Letters, Kyoto University, Kyoto. University, Pungakubu",
+        "native_label": "text"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          256,
+          155,
+          986,
+          188
+        ],
+        "polygon": [
+          [
+            256,
+            155
+          ],
+          [
+            256,
+            188
+          ],
+          [
+            986,
+            188
+          ],
+          [
+            986,
+            155
+          ]
+        ],
+        "content": "Cat. Kyoto daigaku bungakubu kanseki bunrui mokuroku 京都大學文學部漢籍分類目錄, Kyoto, 1959.",
+        "native_label": "text"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          240,
+          192,
+          988,
+          256
+        ],
+        "polygon": [
+          [
+            240,
+            192
+          ],
+          [
+            240,
+            256
+          ],
+          [
+            987,
+            256
+          ],
+          [
+            987,
+            192
+          ]
+        ],
+        "content": "LC Library of Congress, Washington, D.C.\n\nCat. A Descriptive Catalog of Rare Chinese Books in the Library of Congress, Kuo-hui t'u-shu-kuan ts'ang Chung-kuo shan-pen shu-lu 国會圖書館藏中國善本書錄, 2 vols., Washington, D.C., 1957.",
+        "native_label": "text"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          251,
+          257,
+          986,
+          304
+        ],
+        "polygon": [
+          [
+            251,
+            261
+          ],
+          [
+            251,
+            303
+          ],
+          [
+            986,
+            303
+          ],
+          [
+            986,
+            257
+          ],
+          [
+            966,
+            257
+          ],
+          [
+            946,
+            257
+          ],
+          [
+            776,
+            257
+          ],
+          [
+            256,
+            257
+          ]
+        ],
+        "content": "Cat. A Catalog of Chinese Local Histories in the Library of Congress, Kuo-hui t'u-shu-kuan ts'ang Chung-kuo fang-chih mu-lu 国會圖書館藏中國方志目錄, Section 8) Washington, D.C., 1942.",
+        "native_label": "text"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          304,
+          873,
+          325
+        ],
+        "polygon": [
+          [
+            239,
+            304
+          ],
+          [
+            239,
+            325
+          ],
+          [
+            872,
+            325
+          ],
+          [
+            867,
+            304
+          ]
+        ],
+        "content": "Leiden Sinologisch Instituut, University of Leiden, Leiden, Holland.",
+        "native_label": "text"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          241,
+          324,
+          989,
+          358
+        ],
+        "polygon": [
+          [
+            241,
+            324
+          ],
+          [
+            241,
+            358
+          ],
+          [
+            983,
+            358
+          ],
+          [
+            978,
+            330
+          ],
+          [
+            914,
+            330
+          ],
+          [
+            874,
+            324
+          ],
+          [
+            755,
+            324
+          ],
+          [
+            724,
+            324
+          ]
+        ],
+        "content": "Naikaku Naikaku bunko, Tōkyō.\n\nCat. Naikaku bunko kanseki bunrui mokuroku 内閣文庫漢藉分類目錄, Tōkyō, 1956.",
+        "native_label": "text"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          372,
+          983,
+          413
+        ],
+        "polygon": [
+          [
+            239,
+            372
+          ],
+          [
+            239,
+            413
+          ],
+          [
+            339,
+            413
+          ],
+          [
+            359,
+            413
+          ],
+          [
+            983,
+            413
+          ],
+          [
+            983,
+            372
+          ]
+        ],
+        "content": "Cat. Kuo-li chung-yang t'u-shu-kuan shan-pen shu-mu 国立中央圖書館善本書目, 3 vols., Taipei, 1957-8.",
+        "native_label": "text"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          240,
+          411,
+          984,
+          464
+        ],
+        "polygon": [
+          [
+            240,
+            416
+          ],
+          [
+            240,
+            463
+          ],
+          [
+            984,
+            463
+          ],
+          [
+            984,
+            416
+          ],
+          [
+            824,
+            416
+          ],
+          [
+            324,
+            411
+          ]
+        ],
+        "content": "NLP National Library of Peking, Peking.\n\nCat. Kuo-li Pei-p'ing t'u-shu-kuan shan-pen shu-mu 國立北平圖書館善本書目, 4 ts'e, Peiping, 1933.",
+        "native_label": "text"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          254,
+          465,
+          985,
+          499
+        ],
+        "polygon": [
+          [
+            254,
+            465
+          ],
+          [
+            254,
+            499
+          ],
+          [
+            984,
+            499
+          ],
+          [
+            984,
+            465
+          ]
+        ],
+        "content": "New Cat. Pei-ching t'u-shu-kuan shan-pen shu-mu 北京圖書館善本書目,8 ts'e, Chunghua shu-chü, Peking, 1959.",
+        "native_label": "text"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          498,
+          985,
+          571
+        ],
+        "polygon": [
+          [
+            236,
+            498
+          ],
+          [
+            236,
+            571
+          ],
+          [
+            984,
+            571
+          ],
+          [
+            984,
+            509
+          ],
+          [
+            960,
+            498
+          ]
+        ],
+        "content": "Peking Former Pei-ching jen-wen k'o-hsüeh yen-chiu-so, Peking.\n\nJen-wen\n\nCat. Pei-ching jen-wen k'o-hsüeh yen-chiu-so ts'ang-shu mu-lu 北京人文科學研究所藏書目錄,10 ts'e, Peking,1938.",
+        "native_label": "text"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          568,
+          981,
+          636
+        ],
+        "polygon": [
+          [
+            235,
+            568
+          ],
+          [
+            235,
+            635
+          ],
+          [
+            981,
+            635
+          ],
+          [
+            981,
+            573
+          ],
+          [
+            946,
+            568
+          ]
+        ],
+        "content": "Peking Peking University Library, Peking.\n\nUniversity\n\nCat. Pei-ching ta-hsüeh t'u-shu-kuan shan-pen shu-lu 北京大學圖書館善本書錄,\n\nPeking, 1948.",
+        "native_label": "text"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          634,
+          911,
+          653
+        ],
+        "polygon": [
+          [
+            235,
+            634
+          ],
+          [
+            235,
+            648
+          ],
+          [
+            281,
+            653
+          ],
+          [
+            310,
+            653
+          ],
+          [
+            910,
+            653
+          ],
+          [
+            910,
+            634
+          ]
+        ],
+        "content": "Princeton Gest Oriental Library, Princeton University, Princeton, New Jersey.",
+        "native_label": "text"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          653,
+          982,
+          707
+        ],
+        "polygon": [
+          [
+            235,
+            653
+          ],
+          [
+            235,
+            702
+          ],
+          [
+            981,
+            707
+          ],
+          [
+            981,
+            663
+          ],
+          [
+            897,
+            653
+          ]
+        ],
+        "content": "Seikadō Seikadō bunko, Tōkyo.\n\nCat. Seikadō bunko kanseki bunrui mokuroku 静嘉堂文庫漢籍分類目錄, Tōkyo, 1930.",
+        "native_label": "text"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          704,
+          982,
+          756
+        ],
+        "polygon": [
+          [
+            235,
+            704
+          ],
+          [
+            235,
+            755
+          ],
+          [
+            981,
+            755
+          ],
+          [
+            981,
+            710
+          ]
+        ],
+        "content": "Sonkeikaku Sonkeikaku bunko, Tōkyō.\n\nCat. Sonkeikaku bunko kanseki bunrui mokuroku 邊經閣文庫漢籍分類目錄, 2 vols.,\n\nTōkyō, 1934-5.",
+        "native_label": "text"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          757,
+          980,
+          792
+        ],
+        "polygon": [
+          [
+            235,
+            757
+          ],
+          [
+            235,
+            788
+          ],
+          [
+            245,
+            792
+          ],
+          [
+            979,
+            792
+          ],
+          [
+            979,
+            757
+          ]
+        ],
+        "content": "Tenri Tenri Central Library, Tenri toshokan 天理圖書館, Tenri-shi, Nara-ken. Cat. Chūbun chishi mokuroku 中文地志目錄, Tenri, 1955.",
+        "native_label": "text"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          793,
+          934,
+          830
+        ],
+        "polygon": [
+          [
+            235,
+            793
+          ],
+          [
+            235,
+            830
+          ],
+          [
+            933,
+            830
+          ],
+          [
+            933,
+            804
+          ],
+          [
+            903,
+            793
+          ],
+          [
+            879,
+            793
+          ],
+          [
+            853,
+            793
+          ]
+        ],
+        "content": "Toshoryō Kunaisho toshoryō, Tōkyō.\n\nCat. Toshoryō kansekizembon shomoku 圖書寮漠籍善本書目, Tōkyō, 1931.",
+        "native_label": "text"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          848,
+          948,
+          868
+        ],
+        "polygon": [
+          [
+            235,
+            848
+          ],
+          [
+            235,
+            868
+          ],
+          [
+            947,
+            868
+          ],
+          [
+            947,
+            848
+          ]
+        ],
+        "content": "Ueno Ueno toshokan 上野圖書館, part of the National Diet Library, Tokyo.",
+        "native_label": "text"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          253,
+          105,
+          705,
+          124
+        ],
+        "polygon": [
+          [
+            253,
+            105
+          ],
+          [
+            253,
+            123
+          ],
+          [
+            704,
+            123
+          ],
+          [
+            704,
+            105
+          ]
+        ],
+        "content": "## COLLECTANEA (TS'UNG-SHU 叢書)",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          134,
+          129,
+          827,
+          176
+        ],
+        "polygon": [
+          [
+            134,
+            129
+          ],
+          [
+            134,
+            175
+          ],
+          [
+            826,
+            175
+          ],
+          [
+            826,
+            129
+          ]
+        ],
+        "content": "References are given to Chung-kuo ts'ung-shu tsung-lu 中國叢書縁錄, Vol. I, Shanghai, 1959. If a work is not mentioned therein another reference is given, as far as possible. The abbreviated forms of the titles are arranged according to the number of strokes.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          108,
+          178,
+          851,
+          210
+        ],
+        "polygon": [
+          [
+            108,
+            178
+          ],
+          [
+            108,
+            209
+          ],
+          [
+            851,
+            209
+          ],
+          [
+            851,
+            178
+          ]
+        ],
+        "content": "丁丑 Ting-ch'ou ts'ung-pien 丁丑叢編. Ed. by Chao I-shen 趙詒琛 and Wang Ta-lung 王大隆, 1937. Tsung-lu, pp. 307-8.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          212,
+          850,
+          244
+        ],
+        "polygon": [
+          [
+            110,
+            212
+          ],
+          [
+            110,
+            243
+          ],
+          [
+            850,
+            243
+          ],
+          [
+            850,
+            212
+          ],
+          [
+            191,
+            212
+          ]
+        ],
+        "content": "上海 Shang-hai chang-ku ts'ung-shu 上海掌故叢書. Published in Shanghai,1936. Tsung-lu, p. 676.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          245,
+          850,
+          276
+        ],
+        "polygon": [
+          [
+            110,
+            245
+          ],
+          [
+            110,
+            276
+          ],
+          [
+            849,
+            276
+          ],
+          [
+            849,
+            245
+          ],
+          [
+            130,
+            245
+          ]
+        ],
+        "content": "中內 Chung-kuo nei-luan wai-huo li-shih ts'ung-shu 中國內亂外禍歷史叢書. See No. 9.4.15.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          109,
+          279,
+          850,
+          311
+        ],
+        "polygon": [
+          [
+            109,
+            279
+          ],
+          [
+            109,
+            310
+          ],
+          [
+            849,
+            310
+          ],
+          [
+            849,
+            279
+          ]
+        ],
+        "content": "中水 Chung-kuo shui-li chen-pen ts'ung-shu 中國水利珍本叢書. Published in Nanking, 1936/37. Tsung-lu, pp. 680-1.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          108,
+          313,
+          851,
+          376
+        ],
+        "polygon": [
+          [
+            108,
+            313
+          ],
+          [
+            108,
+            375
+          ],
+          [
+            850,
+            375
+          ],
+          [
+            850,
+            313
+          ]
+        ],
+        "content": "五朝 Wu-Ch'ao hsiao-shuo 五朝小說. First ed. during the late Ming or early Ch'ing period by an unknown editor based on Shuo-fu and Hsü Shuo-fu. Reprinted in Shanghai in 1926 with the title Wu-ch'ao hsiao-shuo ta-kuan 五朝小說大觀. Tsung-lu, pp. 761-6.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          108,
+          377,
+          851,
+          425
+        ],
+        "polygon": [
+          [
+            108,
+            377
+          ],
+          [
+            108,
+            424
+          ],
+          [
+            851,
+            424
+          ],
+          [
+            851,
+            377
+          ]
+        ],
+        "content": "今猷 Chin-hsien hui-yen 今獻彙言. Ed. by Kao Ming-feng 高鳴鳳 during the Wan-li period. Photolithographic reprint of the original Ming ed. by the Commercial Press, Shanghai, 1937. Tsung-lu, pp. 37 and 327.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          108,
+          426,
+          850,
+          473
+        ],
+        "polygon": [
+          [
+            108,
+            426
+          ],
+          [
+            108,
+            473
+          ],
+          [
+            850,
+            473
+          ],
+          [
+            850,
+            426
+          ],
+          [
+            359,
+            426
+          ]
+        ],
+        "content": "六十家 Ming liu-shih chia hsiao-shuo 明六十家小說. First ed. during the Ming dynasty by unknown author, re-ed. after Shuo-fu and Hsü shuo-fu. See東方文化學院京都研究所, 漢籍目錄, Kyōto, 1938, pp. 386-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          475,
+          849,
+          508
+        ],
+        "polygon": [
+          [
+            110,
+            475
+          ],
+          [
+            110,
+            507
+          ],
+          [
+            848,
+            507
+          ],
+          [
+            848,
+            475
+          ]
+        ],
+        "content": "仙居 Hsien-chü ts'ung-shu 仙居叢書 (第一集). Ed. by Li Ching-chü 李鐿渠，1935. Tsung-lu, p. 441.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          509,
+          851,
+          541
+        ],
+        "polygon": [
+          [
+            110,
+            509
+          ],
+          [
+            110,
+            541
+          ],
+          [
+            850,
+            541
+          ],
+          [
+            850,
+            509
+          ]
+        ],
+        "content": "功順 Kung-shun-t'ang ts'ung-shu功順堂叢書. Ed. by P'an Tsu-yin 潘祖蔭 during the Kuang-hsü period. Tsung-lu, pp. 200-1.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          109,
+          543,
+          850,
+          574
+        ],
+        "polygon": [
+          [
+            109,
+            543
+          ],
+          [
+            109,
+            574
+          ],
+          [
+            849,
+            574
+          ],
+          [
+            849,
+            543
+          ]
+        ],
+        "content": "北平 Kuo-li Pei-p'ing t'u-shu-kuan shan-pen ts'ung-shu 國立北平圖書館善本叢書. See No. 9.4.14.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          108,
+          577,
+          850,
+          609
+        ],
+        "polygon": [
+          [
+            108,
+            577
+          ],
+          [
+            108,
+            608
+          ],
+          [
+            850,
+            608
+          ],
+          [
+            850,
+            577
+          ],
+          [
+            309,
+            577
+          ]
+        ],
+        "content": "华畝 Pan-mou-yuan ts'ung-shu 半畝園叢書. Ed. by Wu K'un-hsiu 吴坤修 during the T'ung-chih period. Tsung-lu, pp.198-9.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          109,
+          610,
+          851,
+          642
+        ],
+        "polygon": [
+          [
+            109,
+            610
+          ],
+          [
+            109,
+            642
+          ],
+          [
+            850,
+            642
+          ],
+          [
+            850,
+            610
+          ]
+        ],
+        "content": "古今 Ku-chin shuo-hai古今說海. Ed. by Lu Chi 陸楫, 1544, reprinted in 1821, 1909, and 1915. Tsung-lu, pp. 755-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          644,
+          849,
+          677
+        ],
+        "polygon": [
+          [
+            110,
+            644
+          ],
+          [
+            110,
+            676
+          ],
+          [
+            848,
+            676
+          ],
+          [
+            848,
+            644
+          ]
+        ],
+        "content": "古名 Ku-chin ming-hsien hui-yü 古今名賢彙語. Ed. in the late Ming period. Original ed only. Tsung-lu, pp. 61-62.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          678,
+          850,
+          711
+        ],
+        "polygon": [
+          [
+            110,
+            678
+          ],
+          [
+            110,
+            711
+          ],
+          [
+            849,
+            711
+          ],
+          [
+            849,
+            678
+          ]
+        ],
+        "content": "古香 Ku-hsiang-chai hsiu-chen shih-chung 古香齋袖珍十種. First edition during the eighteenth century, reprinted in the late nineteenth century, Tsung-lu, p. 78.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          712,
+          850,
+          744
+        ],
+        "polygon": [
+          [
+            110,
+            712
+          ],
+          [
+            110,
+            743
+          ],
+          [
+            849,
+            743
+          ],
+          [
+            849,
+            712
+          ],
+          [
+            321,
+            712
+          ]
+        ],
+        "content": "古說 Ku-chin shuo-pu ts'ung-shu 古今說部叢書. Ed. Shanghai, 1910-13. Tsung-lu, pp. 767-70.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          109,
+          746,
+          849,
+          793
+        ],
+        "polygon": [
+          [
+            109,
+            746
+          ],
+          [
+            109,
+            792
+          ],
+          [
+            848,
+            792
+          ],
+          [
+            848,
+            746
+          ],
+          [
+            249,
+            746
+          ]
+        ],
+        "content": "四叢 Ssu-pu ts'ung-k'an san-pien 四部叢刋三編. Ed. by Chang Yuan-chi 張元濟 and others, published by the Commercial Press in 1935/36, and reprinted in 1965. Tsung-lu, pp. 295-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          794,
+          848,
+          827
+        ],
+        "polygon": [
+          [
+            110,
+            794
+          ],
+          [
+            110,
+            827
+          ],
+          [
+            848,
+            827
+          ],
+          [
+            848,
+            794
+          ]
+        ],
+        "content": "正誼 Cheng-i-t'ang ch'üan-shu 正誼堂全書. Ed. by Chang Po-hsing 張伯行, 1866-70. Tsung-lu, pp. 77-78.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 19,
+        "label": "text",
+        "bbox_2d": [
+          109,
+          828,
+          756,
+          846
+        ],
+        "polygon": [
+          [
+            109,
+            828
+          ],
+          [
+            109,
+            846
+          ],
+          [
+            755,
+            846
+          ],
+          [
+            755,
+            828
+          ]
+        ],
+        "content": "玄覽 Hsüan-lan-t'ang ts'ung-shu ch'u-chi 玄覽堂叢書初集. See No. 9.4.17 i.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 20,
+        "label": "text",
+        "bbox_2d": [
+          109,
+          848,
+          757,
+          865
+        ],
+        "polygon": [
+          [
+            109,
+            848
+          ],
+          [
+            109,
+            865
+          ],
+          [
+            756,
+            865
+          ],
+          [
+            756,
+            848
+          ]
+        ],
+        "content": "玄繢 Hsüan-lan-t'ang ts'ung-shu hsü-chi 玄覽堂叢書續集. See No. 9.4.17 ii.",
+        "native_label": "reference_content"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          109,
+          863,
+          125
+        ],
+        "polygon": [
+          [
+            235,
+            109
+          ],
+          [
+            235,
+            125
+          ],
+          [
+            863,
+            125
+          ],
+          [
+            863,
+            109
+          ]
+        ],
+        "content": "玄三 Hsü-lan-t'ang ts'ung-shu san-chi 玄寬堂叢書三集. See No. 9.4.17 iii.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          127,
+          981,
+          159
+        ],
+        "polygon": [
+          [
+            981,
+            127
+          ],
+          [
+            237,
+            131
+          ],
+          [
+            237,
+            158
+          ],
+          [
+            981,
+            158
+          ]
+        ],
+        "content": "玉簡 Yü-chien-chai ts'ung-shu 玉簡齋叢書. Ed. in 1910 by Lo Chen-yü 羅振玉. See Tsung-lu, p. 270.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          160,
+          979,
+          193
+        ],
+        "polygon": [
+          [
+            236,
+            192
+          ],
+          [
+            978,
+            192
+          ],
+          [
+            978,
+            160
+          ],
+          [
+            241,
+            160
+          ]
+        ],
+        "content": "申報 Shen-pao-kuan ts'ung-shu 申報館叢書. Ed. by the Tsun-wen ko 尊聞閣, 1875-95. Tsung-lu, pp. 224-29.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          194,
+          979,
+          226
+        ],
+        "polygon": [
+          [
+            236,
+            194
+          ],
+          [
+            236,
+            226
+          ],
+          [
+            978,
+            226
+          ],
+          [
+            978,
+            194
+          ]
+        ],
+        "content": "如臯 Ju-kao Mao-shih ts'ung-shu 如皐冒氏叢書. Ed. by Mao Kuang-sheng 冒廣生, 1903- 23. Tsung-lu, pp. 459-60.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          228,
+          980,
+          260
+        ],
+        "polygon": [
+          [
+            236,
+            228
+          ],
+          [
+            236,
+            259
+          ],
+          [
+            979,
+            259
+          ],
+          [
+            979,
+            228
+          ]
+        ],
+        "content": "守山 Shou-shan-ko ts'ung-shu 守山閣叢書. Ed. in 1844 by Ch'ien Hsi-tso 錢熙宱, reprinted in 1889 and 1922. Tsung-lu, pp. 176-9.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          262,
+          980,
+          294
+        ],
+        "polygon": [
+          [
+            242,
+            267
+          ],
+          [
+            242,
+            293
+          ],
+          [
+            980,
+            293
+          ],
+          [
+            980,
+            262
+          ]
+        ],
+        "content": "式古 Shih-ku-chü hui-ch'ao 式古居彙鈔. Ed. in 1846 by Ch'ien Hsi-tso 錢熙祚. Based on借月山房彙鈔 (No. 9.4.9). See Tsung-lu, p. 179.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          296,
+          978,
+          328
+        ],
+        "polygon": [
+          [
+            239,
+            296
+          ],
+          [
+            239,
+            328
+          ],
+          [
+            978,
+            328
+          ],
+          [
+            978,
+            296
+          ]
+        ],
+        "content": "百陵 Pai-ling hsüeh-shan 百陵學山. Ed. by Wang Wen-lu 王文襋 during the Wan-li period. Reprinted by the Commercial Press in 1938. Tsung-lu, pp. 37-38 and 328-9.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          330,
+          982,
+          363
+        ],
+        "polygon": [
+          [
+            238,
+            330
+          ],
+          [
+            238,
+            363
+          ],
+          [
+            981,
+            363
+          ],
+          [
+            981,
+            330
+          ]
+        ],
+        "content": "别下 Pieh-hsia-chai ts'ung-shu 别下齋叢書. Ed. during the Tao-kuang period by Chiang Kuang-hsü 蒋光煦, reprinted in 1923. Tsung-lu, p. 172.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          364,
+          980,
+          396
+        ],
+        "polygon": [
+          [
+            237,
+            395
+          ],
+          [
+            979,
+            395
+          ],
+          [
+            979,
+            364
+          ],
+          [
+            242,
+            364
+          ]
+        ],
+        "content": "芋園 Yü-yüan ts'ung-shu 芋園叢書. Ed. in 1935 by Huang Cho-i 黄肇沂. Tsung-lu, pp. 308-10.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          398,
+          671,
+          415
+        ],
+        "polygon": [
+          [
+            238,
+            398
+          ],
+          [
+            238,
+            414
+          ],
+          [
+            671,
+            414
+          ],
+          [
+            671,
+            398
+          ]
+        ],
+        "content": "明人 Ming-jen hsiao-shih 明人小史. See No. 9.4.13.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          416,
+          794,
+          433
+        ],
+        "polygon": [
+          [
+            239,
+            416
+          ],
+          [
+            239,
+            432
+          ],
+          [
+            793,
+            432
+          ],
+          [
+            793,
+            416
+          ]
+        ],
+        "content": "明料 Ming-chi shih-liao ts'ung-shu 明季史料叢書. See No. 9.4.16.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          435,
+          824,
+          452
+        ],
+        "polygon": [
+          [
+            239,
+            435
+          ],
+          [
+            239,
+            451
+          ],
+          [
+            823,
+            451
+          ],
+          [
+            823,
+            435
+          ]
+        ],
+        "content": "明遼 Ming-chi Liao-shih ts'ung-k'an 明季遼事叢刊. See No. 7.10.15.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          454,
+          981,
+          486
+        ],
+        "polygon": [
+          [
+            239,
+            454
+          ],
+          [
+            239,
+            485
+          ],
+          [
+            981,
+            485
+          ],
+          [
+            981,
+            454
+          ]
+        ],
+        "content": "武林 Wu-lin wang-che i-shu 武林往哲遺書 Ed.in 1894-1900 by Ting Ping 丁丙. Tsung-lu, pp.432-3.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          488,
+          981,
+          520
+        ],
+        "polygon": [
+          [
+            236,
+            519
+          ],
+          [
+            980,
+            519
+          ],
+          [
+            980,
+            488
+          ],
+          [
+            241,
+            488
+          ]
+        ],
+        "content": "武掌 Wu-lin chang-ku ts'ung-pien 武林掌故叢編. Ed. by Ting Ping 丁丙 between 1877 and 1900. Tsung-lu, pp. 427-32.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          521,
+          982,
+          553
+        ],
+        "polygon": [
+          [
+            236,
+            553
+          ],
+          [
+            981,
+            553
+          ],
+          [
+            981,
+            521
+          ],
+          [
+            492,
+            521
+          ],
+          [
+            241,
+            521
+          ]
+        ],
+        "content": "知不 Chih-pu-tsu-chai ts'ung-shu 知不足齋叢書. Ed. during the Tao-kuang period by Pao T'ing-po 鮑廷博, reprinted in 1921. Tsung-lu, pp. 134-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          555,
+          982,
+          588
+        ],
+        "polygon": [
+          [
+            236,
+            560
+          ],
+          [
+            241,
+            587
+          ],
+          [
+            981,
+            587
+          ],
+          [
+            981,
+            555
+          ],
+          [
+            241,
+            555
+          ]
+        ],
+        "content": "金刻 Chin-ling ts'ung-k'o 金陵叢刻. Ed. in 1897-1905 by Fu Ch'un-kuan 傅春宫. Tsung-lu, p.416.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          589,
+          982,
+          622
+        ],
+        "polygon": [
+          [
+            238,
+            589
+          ],
+          [
+            238,
+            622
+          ],
+          [
+            981,
+            622
+          ],
+          [
+            981,
+            589
+          ]
+        ],
+        "content": "金華 Chin-hua ts'ung-shu 金華叢書. Ed. by Hu Feng-tan 胡鳳丹 during the late Ch'ing period. Tsung-lu, pp. 441-3.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          623,
+          709,
+          640
+        ],
+        "polygon": [
+          [
+            238,
+            623
+          ],
+          [
+            238,
+            639
+          ],
+          [
+            709,
+            639
+          ],
+          [
+            709,
+            623
+          ]
+        ],
+        "content": "金聲 Chin-sheng yü-chen chi 金聲玉振集. See No. 9.4.1.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          642,
+          981,
+          673
+        ],
+        "polygon": [
+          [
+            239,
+            642
+          ],
+          [
+            239,
+            673
+          ],
+          [
+            981,
+            673
+          ],
+          [
+            981,
+            642
+          ],
+          [
+            495,
+            642
+          ],
+          [
+            489,
+            642
+          ]
+        ],
+        "content": "長恩 Ch'ang-en shu-shih ts'ung-shu 長恩書室叢書. Ed. by Chuang Chao-lin 莊肇麟 in 1854. Tsung-lu, p. 193.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 19,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          676,
+          981,
+          708
+        ],
+        "polygon": [
+          [
+            238,
+            676
+          ],
+          [
+            238,
+            708
+          ],
+          [
+            980,
+            708
+          ],
+          [
+            980,
+            676
+          ],
+          [
+            434,
+            676
+          ]
+        ],
+        "content": "後知 Hou Chih-pu-tsu-chai ts'ung-shu 後知不足齋叢書. Ed. by Pao T'ing-chüeh 鮑廷爵 in 1872-90. Tsung-lu, pp. 205-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 20,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          710,
+          980,
+          743
+        ],
+        "polygon": [
+          [
+            239,
+            710
+          ],
+          [
+            239,
+            743
+          ],
+          [
+            979,
+            743
+          ],
+          [
+            979,
+            710
+          ]
+        ],
+        "content": "指海 Chih-hai 指海. Ed. by Ch'ien Hsi-tso 錢熙祚 during the Tao-kuang period. Photolithographic reprint by the 大東書局, 1935. Tsung-lu, pp. 180-2.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 21,
+        "label": "text",
+        "bbox_2d": [
+          240,
+          745,
+          982,
+          778
+        ],
+        "polygon": [
+          [
+            240,
+            745
+          ],
+          [
+            240,
+            777
+          ],
+          [
+            981,
+            777
+          ],
+          [
+            981,
+            745
+          ]
+        ],
+        "content": "昭代 Chao-tai ts'ung-shu 昭代叢書. Ed. in 1697-1700 by Chang Ch'ao 張潮; new and enlarged ed. printed in 1833-49. Tsung-lu, pp. 69-77.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 22,
+        "label": "text",
+        "bbox_2d": [
+          239,
+          779,
+          647,
+          797
+        ],
+        "polygon": [
+          [
+            239,
+            779
+          ],
+          [
+            239,
+            796
+          ],
+          [
+            646,
+            796
+          ],
+          [
+            646,
+            779
+          ]
+        ],
+        "content": "紀載 Chi-tsai hui-pien 紀載彙編. See No. 9.4.8.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 23,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          799,
+          633,
+          815
+        ],
+        "polygon": [
+          [
+            238,
+            799
+          ],
+          [
+            238,
+            815
+          ],
+          [
+            633,
+            815
+          ],
+          [
+            633,
+            799
+          ]
+        ],
+        "content": "紀錄 Chi-lu hui-pien 紀錄集編. See No 9.4.3.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 24,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          818,
+          769,
+          833
+        ],
+        "polygon": [
+          [
+            238,
+            818
+          ],
+          [
+            238,
+            833
+          ],
+          [
+            769,
+            833
+          ],
+          [
+            769,
+            818
+          ]
+        ],
+        "content": "紀錄選 Chi-lu hui-pien hsiuan-k'an 紀錄彙編選刊. See No. 9.4.3.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 25,
+        "label": "text",
+        "bbox_2d": [
+          237,
+          834,
+          981,
+          866
+        ],
+        "polygon": [
+          [
+            237,
+            834
+          ],
+          [
+            242,
+            865
+          ],
+          [
+            981,
+            865
+          ],
+          [
+            981,
+            834
+          ]
+        ],
+        "content": "香艶 Hsiang-yen ts'ung-shu 香艷叢書. Ed. by a certain 'Ch'ung-t'ien-tzu 蟲天子' in 1909-11. Tsung-lu, pp. 772-6.",
+        "native_label": "reference_content"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          101,
+          676,
+          118
+        ],
+        "polygon": [
+          [
+            114,
+            101
+          ],
+          [
+            114,
+            118
+          ],
+          [
+            675,
+            118
+          ],
+          [
+            675,
+            101
+          ]
+        ],
+        "content": "借月 Chieh-yiieh shan-fang hui-ch'ao 借月山房雬鈔. See No. 9.4.9.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          120,
+          852,
+          151
+        ],
+        "polygon": [
+          [
+            114,
+            120
+          ],
+          [
+            114,
+            151
+          ],
+          [
+            851,
+            151
+          ],
+          [
+            851,
+            120
+          ]
+        ],
+        "content": "殷禮 Yin-li tsai-ssu t'ang ts'ung-shu 殷禮在斯堂叢書. Ed. by Lo Chen-yü 羅振玉 in 1928. Tsung-lu, p. 274.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          153,
+          853,
+          186
+        ],
+        "polygon": [
+          [
+            114,
+            153
+          ],
+          [
+            114,
+            185
+          ],
+          [
+            853,
+            185
+          ],
+          [
+            853,
+            153
+          ]
+        ],
+        "content": "海山 Hai-shan hsien-kuan ts'ung-shu 海山仙館叢書. Ed. by P'an Shih-ch'eng 潘仕成 between 1845 and 1851. Tsung-lu, pp. 183-4.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          187,
+          853,
+          220
+        ],
+        "polygon": [
+          [
+            114,
+            187
+          ],
+          [
+            114,
+            219
+          ],
+          [
+            853,
+            219
+          ],
+          [
+            853,
+            187
+          ]
+        ],
+        "content": "涇川 Ching-ch'uan ts'ung-shu 涇川叢書. Ed. by Chao Shao-tsu 趙紹祖 in 1832; reprinted in 1917. Tsung-lu, pp. 426-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          220,
+          526,
+          237
+        ],
+        "polygon": [
+          [
+            114,
+            220
+          ],
+          [
+            114,
+            237
+          ],
+          [
+            525,
+            237
+          ],
+          [
+            525,
+            220
+          ]
+        ],
+        "content": "荆駝 Ching-t'o i-shih 荆駝逸史. See No. 9.4.10.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          239,
+          853,
+          271
+        ],
+        "polygon": [
+          [
+            114,
+            239
+          ],
+          [
+            114,
+            271
+          ],
+          [
+            853,
+            271
+          ],
+          [
+            853,
+            239
+          ]
+        ],
+        "content": "乾坤 Ch'ien-k'un cheng-chi'i chi 乾坤正氣集. Ed. by Yao Ying 姚瑩 and Ku Yuan 顧沅 in 1848, reprinted in 1866, supplemented in 1875. Tsung-lu, pp. 820-1.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          273,
+          851,
+          291
+        ],
+        "polygon": [
+          [
+            114,
+            273
+          ],
+          [
+            114,
+            290
+          ],
+          [
+            851,
+            290
+          ],
+          [
+            851,
+            273
+          ]
+        ],
+        "content": "國粹 Kuo-ts'ui ts'ung-shu 國粹叢書. Ed. in 1906-9 by 國學保存會. Tsung-lu, pp. 265-6.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          292,
+          853,
+          324
+        ],
+        "polygon": [
+          [
+            114,
+            292
+          ],
+          [
+            114,
+            324
+          ],
+          [
+            852,
+            324
+          ],
+          [
+            852,
+            292
+          ]
+        ],
+        "content": "崇正 Ch'ung-cheng ts'ung-shu 崇正參書. Ed. by Yeh T'eng-hsiang 葉腾驤 in 1839. Tsung-lu, p. 642.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          115,
+          326,
+          853,
+          357
+        ],
+        "polygon": [
+          [
+            115,
+            326
+          ],
+          [
+            115,
+            357
+          ],
+          [
+            853,
+            357
+          ],
+          [
+            853,
+            326
+          ]
+        ],
+        "content": "常州 Ch'ang-chou hsien-che i-shu 常州先哲遺書. Ed. by Sheng Hsüan-huai 盛宣懷 in 1895-8. Tsung-lu, pp. 418-20.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          360,
+          853,
+          392
+        ],
+        "polygon": [
+          [
+            114,
+            360
+          ],
+          [
+            114,
+            392
+          ],
+          [
+            852,
+            392
+          ],
+          [
+            852,
+            360
+          ]
+        ],
+        "content": "惜陰 Hsi-yin-hsüan ts'ung-shu 惜陰軒叢書. Ed. by Li Hsi-ling 李錫齢 in 1846, supplemented in 1858, reprinted in 1896. Tsung-lu, pp. 171-2.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          393,
+          853,
+          426
+        ],
+        "polygon": [
+          [
+            114,
+            393
+          ],
+          [
+            114,
+            425
+          ],
+          [
+            852,
+            425
+          ],
+          [
+            852,
+            393
+          ]
+        ],
+        "content": "涵芬 Han-fen-lou mi-chi 涵芬楼秘笈. Ed. by Sun Yü-hsiu 孫毓修 and others and published by the Commercial Press between 1916 and 1926. Tsung-lu, pp. 300-1.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          114,
+          428,
+          851,
+          460
+        ],
+        "polygon": [
+          [
+            114,
+            428
+          ],
+          [
+            114,
+            460
+          ],
+          [
+            851,
+            460
+          ],
+          [
+            851,
+            428
+          ]
+        ],
+        "content": "清初 Ch'ing-ch'u shih-liao ssu-chung 清初史料四種. Ed. by Hsieh Kuo-chen 謝國楨 published in 1933 by the National Library of Peiping. Tsung-lu, p. 647.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          113,
+          462,
+          667,
+          479
+        ],
+        "polygon": [
+          [
+            113,
+            462
+          ],
+          [
+            113,
+            479
+          ],
+          [
+            666,
+            479
+          ],
+          [
+            666,
+            466
+          ],
+          [
+            657,
+            462
+          ]
+        ],
+        "content": "陸沈 Lu Shen ts'ung-shu 陸沈叢書 1903. ed. Tsung-lu, pp. 644-5.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          113,
+          481,
+          546,
+          497
+        ],
+        "polygon": [
+          [
+            113,
+            481
+          ],
+          [
+            113,
+            497
+          ],
+          [
+            545,
+            497
+          ],
+          [
+            545,
+            481
+          ]
+        ],
+        "content": "膀朝 Sheng-ch'ao i-shih 膀朝遣事. See No. 9.4.11.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          500,
+          851,
+          532
+        ],
+        "polygon": [
+          [
+            111,
+            509
+          ],
+          [
+            117,
+            532
+          ],
+          [
+            850,
+            532
+          ],
+          [
+            850,
+            500
+          ],
+          [
+            117,
+            500
+          ]
+        ],
+        "content": "棣香 Ti-hsiang-chai ts'ung-shu 棣香齋叢書, other name: Lou-tung tsa-chu 婁東雜著. Ed. by Shao T'ing-lieh 邵廷烈 in 1833. Tsung-lu, pp.423-4.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          533,
+          408,
+          550
+        ],
+        "polygon": [
+          [
+            111,
+            533
+          ],
+          [
+            111,
+            549
+          ],
+          [
+            408,
+            549
+          ],
+          [
+            408,
+            533
+          ]
+        ],
+        "content": "痛史 T'ung-shih 痛史. See 9.4.12.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          552,
+          853,
+          569
+        ],
+        "polygon": [
+          [
+            110,
+            552
+          ],
+          [
+            110,
+            568
+          ],
+          [
+            852,
+            568
+          ],
+          [
+            852,
+            552
+          ]
+        ],
+        "content": "筆記 Pi-chi hsiao-shuo ta-kuan 筆記小說大觀. Published in Taipei, 1962, in six volumes.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          572,
+          852,
+          602
+        ],
+        "polygon": [
+          [
+            111,
+            577
+          ],
+          [
+            117,
+            602
+          ],
+          [
+            851,
+            602
+          ],
+          [
+            851,
+            572
+          ],
+          [
+            372,
+            572
+          ],
+          [
+            117,
+            572
+          ]
+        ],
+        "content": "筆記續 Pi-chi hsiao-shuo ta-kuan hsii-pien 筆記小說大觀續編. Published in Taipei, 1962, in six volumes.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          604,
+          852,
+          636
+        ],
+        "polygon": [
+          [
+            111,
+            636
+          ],
+          [
+            851,
+            636
+          ],
+          [
+            851,
+            604
+          ],
+          [
+            117,
+            604
+          ]
+        ],
+        "content": "粤雅 Yueh-ya-t'ang ts'ung-shu 粤雅堂叢書. Ed. by Wu Ch'ung-yao 伍崇嚁 between 1849 and 1875, reprinted in 1965. Tsung-lu, pp.186-90.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 19,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          639,
+          852,
+          671
+        ],
+        "polygon": [
+          [
+            111,
+            639
+          ],
+          [
+            111,
+            670
+          ],
+          [
+            851,
+            670
+          ],
+          [
+            851,
+            639
+          ]
+        ],
+        "content": "貴池 Kuei-ch'ih hsien-che i-shu 貴池先哲遣書. Ed. by Liu Shih-heng 劉世珩, published in 1920. Tsung-lu, p. 427.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 20,
+        "label": "text",
+        "bbox_2d": [
+          113,
+          672,
+          850,
+          705
+        ],
+        "polygon": [
+          [
+            113,
+            672
+          ],
+          [
+            113,
+            705
+          ],
+          [
+            850,
+            705
+          ],
+          [
+            850,
+            672
+          ]
+        ],
+        "content": "集成 Ts'ung-shu chi-ch'eng ch'u-pien 叢書集成初編. Ed. by the Commercial Press, 1935-7. Tsung-lu, pp. 336-81.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 21,
+        "label": "text",
+        "bbox_2d": [
+          113,
+          707,
+          851,
+          739
+        ],
+        "polygon": [
+          [
+            113,
+            707
+          ],
+          [
+            113,
+            739
+          ],
+          [
+            851,
+            739
+          ],
+          [
+            851,
+            707
+          ],
+          [
+            304,
+            707
+          ]
+        ],
+        "content": "雲南 Yun-nan ts'ung-shu 雲南叢書. Ed. by Chao Fan 趙藩 between 1914 and 1924. Tsung-lu, pp. 454-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 22,
+        "label": "text",
+        "bbox_2d": [
+          113,
+          741,
+          851,
+          773
+        ],
+        "polygon": [
+          [
+            113,
+            741
+          ],
+          [
+            113,
+            773
+          ],
+          [
+            850,
+            773
+          ],
+          [
+            850,
+            741
+          ]
+        ],
+        "content": "敬鄕 Ching-hsiang-lou ts'ung-shu 敬鄉樓叢書. Ed. by Huang Ch'un 黄羣 between 1928 and 1935. Tsung-lu, pp. 444-5.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 23,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          774,
+          851,
+          808
+        ],
+        "polygon": [
+          [
+            111,
+            774
+          ],
+          [
+            116,
+            808
+          ],
+          [
+            851,
+            808
+          ],
+          [
+            851,
+            774
+          ]
+        ],
+        "content": "煙霞 Yen-hsia hsiao-shuo 煙霞小說. Ed. by Fan Ch'in 范欽 in 1590. Original ed. only. Tsung-lu, pp. 759-60.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 24,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          808,
+          638,
+          825
+        ],
+        "polygon": [
+          [
+            111,
+            808
+          ],
+          [
+            111,
+            825
+          ],
+          [
+            637,
+            825
+          ],
+          [
+            637,
+            808
+          ]
+        ],
+        "content": "稗史 Ming-chi pai-shih hui-pien 明季稗史彙編. See No. 9.4.7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 25,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          827,
+          853,
+          860
+        ],
+        "polygon": [
+          [
+            117,
+            827
+          ],
+          [
+            117,
+            859
+          ],
+          [
+            853,
+            859
+          ],
+          [
+            853,
+            827
+          ],
+          [
+            385,
+            827
+          ],
+          [
+            380,
+            827
+          ],
+          [
+            350,
+            827
+          ],
+          [
+            261,
+            827
+          ]
+        ],
+        "content": "稗乘 Pai-sheng 稗乘. Ed. by Huang Ch'ang-ling 黄昌齡 during the Wan-li period. Original ed. only. Tsung-lu, p. 759.",
+        "native_label": "reference_content"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          103,
+          979,
+          135
+        ],
+        "polygon": [
+          [
+            235,
+            103
+          ],
+          [
+            235,
+            135
+          ],
+          [
+            978,
+            135
+          ],
+          [
+            978,
+            103
+          ]
+        ],
+        "content": "嘉業 Chia-yeh-t'ang ts'ung-shu 嘉業堂叢書. Ed. by Liu Ch'eng-kan 劉承幹 between 1913 and 1930. Tsung-lu, pp. 282-4.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          137,
+          978,
+          169
+        ],
+        "polygon": [
+          [
+            235,
+            137
+          ],
+          [
+            235,
+            169
+          ],
+          [
+            978,
+            169
+          ],
+          [
+            978,
+            142
+          ],
+          [
+            923,
+            137
+          ]
+        ],
+        "content": "满蒙 Man Meng ts'ung-shu 满蒙叢書. Ed. by Naito Torajiro 内藤虎次郎 in Tokyo between 1919 and 1922. Tsung-lu, pp. 674-5.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          170,
+          978,
+          203
+        ],
+        "polygon": [
+          [
+            235,
+            170
+          ],
+          [
+            235,
+            202
+          ],
+          [
+            977,
+            202
+          ],
+          [
+            977,
+            170
+          ]
+        ],
+        "content": "碧琳 Pi-lin-lang-kuan ts'ung-shu 碧琳琅館叢書. Ed. by Fang Kung-hui 方功惠 in 1884, printed in 1909. Tsung-lu, p. 221.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          205,
+          978,
+          237
+        ],
+        "polygon": [
+          [
+            235,
+            205
+          ],
+          [
+            235,
+            236
+          ],
+          [
+            977,
+            236
+          ],
+          [
+            977,
+            205
+          ]
+        ],
+        "content": "說庫 Shuo-k'u 說庫. Ed. by Wang Wen-ju 王文濡 and published in 1915 in Shanghai. Reprinted in Taipei 1963. Tsung-lu, pp. 770-2.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          238,
+          978,
+          270
+        ],
+        "polygon": [
+          [
+            236,
+            238
+          ],
+          [
+            236,
+            270
+          ],
+          [
+            978,
+            270
+          ],
+          [
+            978,
+            238
+          ]
+        ],
+        "content": "遜敏 Hsiin-min-t'ang ts'ung-shu 遜敏堂叢書. Ed. by Huang Chih-mou 黄秩模 between 1840 and 1852. Tsung-lu, pp.190-1.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 5,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          272,
+          979,
+          305
+        ],
+        "polygon": [
+          [
+            235,
+            276
+          ],
+          [
+            235,
+            304
+          ],
+          [
+            978,
+            304
+          ],
+          [
+            978,
+            272
+          ]
+        ],
+        "content": "墨海 Mo-hai chin-hu 墨海金壶. Ed. by Chang Hai-p'eng 張海鵬 during the Chia-ch'ing period, reprinted in Shanghai, 1921. Tsung-lu, pp. 160-2.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 6,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          306,
+          978,
+          352
+        ],
+        "polygon": [
+          [
+            235,
+            306
+          ],
+          [
+            235,
+            348
+          ],
+          [
+            250,
+            352
+          ],
+          [
+            978,
+            352
+          ],
+          [
+            978,
+            306
+          ],
+          [
+            355,
+            306
+          ]
+        ],
+        "content": "廣百 Kuang-po-ch'uan hsüeh-hai 廣百川學海. Ed. by Feng K'o-pin 馮可賓 during the late Ming period. Re-ed. during the Ch'ing Period after the Shuo-fu and Hsü shuo-fu. Tsung-lu, pp. 6-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 7,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          355,
+          978,
+          387
+        ],
+        "polygon": [
+          [
+            236,
+            355
+          ],
+          [
+            241,
+            387
+          ],
+          [
+            977,
+            387
+          ],
+          [
+            977,
+            355
+          ]
+        ],
+        "content": "楼山 Lou-shan-t'ang i-shu 楼山堂遺書. Collected works by Wu Ying-chi 吴應箕. Ed. during the T'ung-chih period. Tsung-lu, p. 482.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 8,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          389,
+          977,
+          420
+        ],
+        "polygon": [
+          [
+            236,
+            389
+          ],
+          [
+            236,
+            420
+          ],
+          [
+            977,
+            420
+          ],
+          [
+            977,
+            389
+          ]
+        ],
+        "content": "畿輔 Chi-fu ts'ung-shu 畿輔叢書. Ed. by Wang Hao 王灝 in 1879. Tsung-lu, pp. 408-10.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 9,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          422,
+          977,
+          454
+        ],
+        "polygon": [
+          [
+            236,
+            422
+          ],
+          [
+            236,
+            454
+          ],
+          [
+            977,
+            454
+          ],
+          [
+            977,
+            422
+          ]
+        ],
+        "content": "學津 Hsüeh-chin t'ao-yüan 學津討原. Ed. by Chang Hai-p'eng 張海鷼 in 1805, reprinted in 1922. Tsung-lu, pp. 154-7.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 10,
+        "label": "text",
+        "bbox_2d": [
+          238,
+          456,
+          978,
+          488
+        ],
+        "polygon": [
+          [
+            238,
+            456
+          ],
+          [
+            238,
+            488
+          ],
+          [
+            978,
+            488
+          ],
+          [
+            978,
+            456
+          ]
+        ],
+        "content": "學海 Hsüeh-hai lei-pien 學海類編. Ed. by Ts'ao Jung 曹溶, published in 1831, reprinted in 1920 and in 1964. Tsung-lu, pp. 63-67.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 11,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          490,
+          978,
+          522
+        ],
+        "polygon": [
+          [
+            236,
+            490
+          ],
+          [
+            236,
+            521
+          ],
+          [
+            978,
+            521
+          ],
+          [
+            978,
+            490
+          ]
+        ],
+        "content": "横山 Heng-shan ts'ao-tang ts'ung-shu 横山草堂叢書. Ed. by Ch'en Ch'ing-nien 陳慶年 between 1910 and 1919. Tsung-lu, pp. 421-2.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 12,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          524,
+          978,
+          556
+        ],
+        "polygon": [
+          [
+            236,
+            524
+          ],
+          [
+            236,
+            556
+          ],
+          [
+            978,
+            556
+          ],
+          [
+            978,
+            524
+          ]
+        ],
+        "content": "歷代 Li-tai hsiao-shih 歷代小史. Ed. by Li Shih 李栻. Photolithographic reprint of the original Ming ed. by the Commercial Press in 1940. Tsung-lu, pp. 640-1.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 13,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          557,
+          978,
+          590
+        ],
+        "polygon": [
+          [
+            235,
+            557
+          ],
+          [
+            235,
+            589
+          ],
+          [
+            978,
+            589
+          ],
+          [
+            978,
+            557
+          ]
+        ],
+        "content": "澤古 Tse-ku-chai ch'ung-ch'ao 澤古齋重鈔. Ed. in 1823 by Ch'en Huang 陳璜 based on the Chieh-yüeh-shan-fang hui-ch'ao. Tsung-lu, pp. 166-8.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 14,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          591,
+          978,
+          624
+        ],
+        "polygon": [
+          [
+            235,
+            591
+          ],
+          [
+            235,
+            624
+          ],
+          [
+            977,
+            624
+          ],
+          [
+            977,
+            591
+          ]
+        ],
+        "content": "豫恕 Yi-shu-t'ang ts'ung-shu 豫恕堂叢書. Ed. by Shen Teng-shan 沈登善 during the Kuang-hsü period. Tsung-lu, p. 252.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 15,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          625,
+          977,
+          657
+        ],
+        "polygon": [
+          [
+            235,
+            625
+          ],
+          [
+            235,
+            657
+          ],
+          [
+            976,
+            657
+          ],
+          [
+            976,
+            625
+          ]
+        ],
+        "content": "豫章 Yü-chang ts'ung-shu 豫章叢書. Ed. by Hu Ssu-ching 胡思敬 in 1915-20. Tsung-lu, pp. 448-51.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 16,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          659,
+          974,
+          691
+        ],
+        "polygon": [
+          [
+            235,
+            659
+          ],
+          [
+            235,
+            690
+          ],
+          [
+            974,
+            690
+          ],
+          [
+            974,
+            659
+          ]
+        ],
+        "content": "遼海 Liao-hai ts'ung-shu 遼海叢書. Ed. by Chin Yü-fu 金毓歡 between 1931 and 1934. Tsung-lu, pp. 413-14.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 17,
+        "label": "text",
+        "bbox_2d": [
+          236,
+          693,
+          976,
+          725
+        ],
+        "polygon": [
+          [
+            236,
+            693
+          ],
+          [
+            236,
+            725
+          ],
+          [
+            975,
+            725
+          ],
+          [
+            975,
+            693
+          ]
+        ],
+        "content": "龍威 Lung-wei mi-shu 龍威秘書. Ed. by Ma Chün-liang 馬俊良 and published in 1794. Tsung-lu, pp. 144-6.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 18,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          727,
+          977,
+          759
+        ],
+        "polygon": [
+          [
+            235,
+            727
+          ],
+          [
+            235,
+            759
+          ],
+          [
+            977,
+            759
+          ],
+          [
+            977,
+            727
+          ]
+        ],
+        "content": "嶺南 Ling-nan i-shu 嶺南遺書. Ed. by Wu Yuan-wei 伍元薇 and Wu Ch'ung-yao 伍崇曜 between 1831 and 1863. Tsung-lu, pp. 451-2.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 19,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          761,
+          978,
+          794
+        ],
+        "polygon": [
+          [
+            235,
+            761
+          ],
+          [
+            235,
+            793
+          ],
+          [
+            977,
+            793
+          ],
+          [
+            977,
+            761
+          ]
+        ],
+        "content": "螺樹 Lo-shu shan-fang ts'ung-shu 螺樹山房叢書. Ed. by Lung Yü-kuang 龍裕光 during the Kuang-hsü period. Tsung-lu, p. 240.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 20,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          796,
+          977,
+          828
+        ],
+        "polygon": [
+          [
+            235,
+            796
+          ],
+          [
+            235,
+            827
+          ],
+          [
+            976,
+            827
+          ],
+          [
+            976,
+            796
+          ]
+        ],
+        "content": "邈園 Mo-yuan ts'ung-shu 邈園叢書. Ed. by Lo Chen-ch'ang 羅振常 between 1936 and 1938, printed in 1944. Tsung-lu, pp. 385-6.",
+        "native_label": "reference_content"
+      },
+      {
+        "index": 21,
+        "label": "text",
+        "bbox_2d": [
+          235,
+          830,
+          978,
+          863
+        ],
+        "polygon": [
+          [
+            235,
+            830
+          ],
+          [
+            235,
+            863
+          ],
+          [
+            977,
+            863
+          ],
+          [
+            977,
+            830
+          ]
+        ],
+        "content": "藝海 I-hai chu-ch'en 藝海珠塵. Ed. by Wu Hsing-lan 吳省蘭 and first published during the Chia-ch'ing period. Reprinted with additions in 1850. Tsung-lu, pp. 162-4.",
+        "native_label": "reference_content"
+      }
+    ]
+  ],
+  [
+    [
+      {
+        "index": 0,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          105,
+          572,
+          122
+        ],
+        "polygon": [
+          [
+            111,
+            105
+          ],
+          [
+            111,
+            122
+          ],
+          [
+            571,
+            122
+          ],
+          [
+            571,
+            105
+          ]
+        ],
+        "content": "寶顔 Pao-yen-t'ang pi-chi 寶顏堂秘笈. See No. 9.4.2.",
+        "native_label": "text"
+      },
+      {
+        "index": 1,
+        "label": "text",
+        "bbox_2d": [
+          111,
+          123,
+          470,
+          140
+        ],
+        "polygon": [
+          [
+            111,
+            123
+          ],
+          [
+            111,
+            139
+          ],
+          [
+            470,
+            139
+          ],
+          [
+            470,
+            123
+          ]
+        ],
+        "content": "繢說郛 Hsii shuo-fu 繾說郛. See No. 9.4.6.",
+        "native_label": "text"
+      },
+      {
+        "index": 2,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          142,
+          854,
+          190
+        ],
+        "polygon": [
+          [
+            110,
+            142
+          ],
+          [
+            110,
+            190
+          ],
+          [
+            854,
+            190
+          ],
+          [
+            854,
+            147
+          ],
+          [
+            789,
+            142
+          ]
+        ],
+        "content": "顧氏 Ku-shih Ming-ch'ao ssu-shih-chia hsiao-shuo 顧氏明朝四十家小說. Ed. by Ku Yuanch'ing 顧元慶 in the early sixteenth century. Printed first in Shanghai during the Hsüan-t'ung period and again in 1914. Tsung-lu, p. 758.",
+        "native_label": "text"
+      },
+      {
+        "index": 3,
+        "label": "text",
+        "bbox_2d": [
+          110,
+          191,
+          501,
+          208
+        ],
+        "polygon": [
+          [
+            110,
+            191
+          ],
+          [
+            110,
+            208
+          ],
+          [
+            501,
+            208
+          ],
+          [
+            501,
+            191
+          ]
+        ],
+        "content": "鹽邑 Yen-i chih-lin 鹽邑志林. See No. 9.4.4.",
+        "native_label": "text"
+      },
+      {
+        "index": 4,
+        "label": "text",
+        "bbox_2d": [
+          130,
+          249,
+          833,
+          318
+        ],
+        "polygon": [
+          [
+            130,
+            279
+          ],
+          [
+            136,
+            318
+          ],
+          [
+            833,
+            318
+          ],
+          [
+            833,
+            249
+          ],
+          [
+            136,
+            249
+          ]
+        ],
+        "content": "## LIST OF THE EMPERORS OF THE MING DYNASTY AND THEIR DESIGNATIONS OF REIGN",
+        "native_label": "paragraph_title"
+      },
+      {
+        "index": 5,
+        "label": "table",
+        "bbox_2d": [
+          151,
+          337,
+          818,
+          680
+        ],
+        "polygon": [
+          [
+            151,
+            337
+          ],
+          [
+            151,
+            680
+          ],
+          [
+            817,
+            675
+          ],
+          [
+            817,
+            337
+          ]
+        ],
+        "content": "<table border=\"1\"><tr><td>T’AI-TSU</td><td>太祖√</td><td>HUNG-WU</td><td>洪武</td><td>1368-1398</td></tr><tr><td>HUI-TI</td><td>惠帝</td><td>CHIEN-WEN</td><td>建文</td><td>1399-1402</td></tr><tr><td>CH’ENG-TSU</td><td>成祖</td><td>YUNG-LO</td><td>永樂</td><td>1403-1424</td></tr><tr><td>JEN-TSUNG</td><td>仁宗</td><td>HUNG-HSI</td><td>洪熙</td><td>1425</td></tr><tr><td>HSÜAN-TSUNG</td><td>宣宗</td><td>HSÜAN-TE</td><td>宣德</td><td>1426-1435</td></tr><tr><td>YING-TSUNG</td><td>英宗</td><td>CHENG-T’UNG</td><td>正統</td><td>1436-1449</td></tr><tr><td>TAI-TSUNG</td><td>代宗</td><td>CHING-T’AI</td><td>景泰</td><td>1450-1456</td></tr><tr><td>YING-TSUNG</td><td>英宗</td><td>T’IEN-SHUN</td><td>天順</td><td>1457-1464</td></tr><tr><td>HSIEN-TSUNG</td><td>憲宗</td><td>CH’ENG-HUA</td><td>成化</td><td>1465-1487</td></tr><tr><td>HSIAO-TSUNG</td><td>孝宗</td><td>HUNG-CHIH</td><td>弘治</td><td>1488-1505</td></tr><tr><td>WU-TSUNG</td><td>武宗</td><td>CHENG-TE</td><td>正德</td><td>1506-1521</td></tr><tr><td>SHIH-TSUNG</td><td>世宗</td><td>CHIA-CHING</td><td>嘉靖</td><td>1522-1566</td></tr><tr><td>MU-TSUNG</td><td>穆宗</td><td>LUNG-CH’ING</td><td>隆慶</td><td>1567-1572</td></tr><tr><td>SHEN-TSUNG</td><td>神宗</td><td>WAN-LI</td><td>萬曆</td><td>1573-1619</td></tr><tr><td>KUANG-TSUNG</td><td>光宗</td><td>TAI-CH’ANG</td><td>泰昌</td><td>1620</td></tr><tr><td>HSI-TSUNG</td><td>熹宗</td><td>T’IEN-CH’I</td><td>天啓</td><td>1621-1627</td></tr><tr><td>CHUANG-LIEH-TI</td><td>莊烈帝</td><td>CH’UNG-CHEN</td><td>崇禎</td><td>1628-1644</td></tr><tr><td>FU-WANG</td><td>福王</td><td>HUNG-KUANG</td><td>弘光</td><td>1645</td></tr><tr><td>T’ANG-WANG</td><td>唐王</td><td>LUNG-WU</td><td>隆武</td><td>1645-1646</td></tr><tr><td>KUEI-WANG</td><td>桂王</td><td>YUNG-LI</td><td>永曆</td><td>1647-1661</td></tr></table>",
+        "native_label": "table"
+      }
+    ]
+  ]
+]
