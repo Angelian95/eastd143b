@@ -27,7 +27,7 @@ These big tables include:
 
 # Introduction of Today’s Task
 
-There are two PDF files in the `pdf/` folder. They are extracted pages from Wolfgang Frank’s famous book *Introduction of Ming sources* (see a newer edition on WorldCat: https://search.worldcat.org/title/779242963). **For this class, we are using an edition published in the 1960s.**
+There are two PDF files in the `pdf/` folder. They are extracted pages from Wolfgang Frank’s famous book *Introduction of Ming sources* (see a newer edition on WorldCat: [https://search.worldcat.org/title/779242963](https://search.worldcat.org/title/779242963)). **For this class, we are using an edition published in the 1960s.**
 
 - `pdf/wf_abbreviations.pdf` is the abbreviations list.
 - `pdf/wf_five_pages.pdf` contains five pages from the first chapter.
@@ -39,7 +39,7 @@ Your tasks:
 
 # Google NotebookLM
 
-Landing page: https://notebooklm.google/
+Landing page: [https://notebooklm.google/](https://notebooklm.google/)
 
 # OCR tool for Apple
 
@@ -53,9 +53,9 @@ Why do we need JSON files for OCR output?
 
 # OCR tool for LM Studio/Ollama
 
-Repository: https://github.com/kltng/ocr_batch_processor
+Repository: [https://github.com/kltng/ocr_batch_processor](https://github.com/kltng/ocr_batch_processor)
 
-Ollama: https://ollama.com/
+Ollama: [https://ollama.com/](https://ollama.com/)
 
 # Use Openwork or chatbots to clean the OCR output and turn them into clickable links.
 
