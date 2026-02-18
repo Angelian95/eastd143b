@@ -15,10 +15,6 @@ date-modified: "2026-02-18"
 author: "Kwok-leong Tang"
 ---
 
-# Today's Schedule
-
-- 
-
 # The importance of building “Big Tables”
 
 I met with some of you about your research projects, and I noticed some confusion about how to start a new research topic. From my perspective, building “big tables” is always the first step.
