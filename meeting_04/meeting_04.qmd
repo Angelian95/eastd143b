@@ -21,7 +21,7 @@ author: "Kwok-leong Tang"
 
 # The importance of building “Big Tables”
 
-Kwok-leong met with some of you about your research projects, and I noticed some confusion about how to start a new research topic. From Kwok-leong’s perspective, building “big tables” is always the first step.
+I met with some of you about your research projects, and I noticed some confusion about how to start a new research topic. From my perspective, building “big tables” is always the first step.
 
 These big tables include:
 
@@ -33,8 +33,8 @@ These big tables include:
 
 There are two PDF files in the `pdf/` folder. They are extracted pages from Wolfgang Frank’s famous book *Introduction of Ming sources* (see a newer edition on WorldCat: https://search.worldcat.org/title/779242963). **For this class, we are using an edition published in the 1960s.**
 
-- One file is the abbreviations list.
-- One file contains five pages from the first chapter.
+- `pdf/wf_abbreviations.pdf` is the abbreviations list.
+- `pdf/wf_five_pages.pdf` contains five pages from the first chapter.
 
 Your tasks:
 
@@ -45,22 +45,23 @@ Your tasks:
 
 Landing page: https://notebooklm.google/
 
-# OCR tool for Apple.
+# OCR tool for Apple
 
-The software is called "glm-ocr-mlx". It is in the folder `glm-ocr-mlx/`. You can download the file and unzip it. Read the `README.md` file for instructions on how to use it. Currently, it only works on Apple Silicon computers. If you have a Windows/Linux/Apple Intel computer, you can use the OCR tool for LM Studio/Ollama which we will introduce in the next section.
+The software is called `glm-ocr-mlx`. It is provided as `ocr_software/glm-ocr-mlx-main.zip`. Download the file and unzip it, then read the `README.md` file for instructions on how to use it.
+
+Currently, it only works on Apple Silicon computers. If you have a Windows/Linux/Intel Mac, you can use the OCR tool for LM Studio/Ollama, which we will introduce in the next section.
 
 :::{.callout-important}
-Why we need JSON files for OCR output?
-::: 
+Why do we need JSON files for OCR output?
+:::
 
-# OCR tool for LM Studio/Ollama.
+# OCR tool for LM Studio/Ollama
 
-Repository:[https://github.com/kltng/ocr_batch_processor](https://github.com/kltng/ocr_batch_processor)
+Repository: https://github.com/kltng/ocr_batch_processor
 
-Ollama: [https://ollama.com/](https://ollama.com/)
-
+Ollama: https://ollama.com/
 
 # Use Openwork or chatbots to clean the OCR output and turn them into clickable links.
 
-If you cannot get the OCR output, you can use the json files in the `ocr_output/` folder. They are the output of glm-ocr-mlx software. You can use Openwork or chatbots to clean the OCR output and extract the abbreviations and their meanings into a table.
+If you cannot get OCR output, you can use the JSON files in the `ocr_results/` folder. They are the output of `glm-ocr-mlx`. You can use Openwork or chatbots to clean the OCR output and extract the abbreviations and their meanings into a table.
 
